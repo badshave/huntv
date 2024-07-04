@@ -1,0 +1,610 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 xui-id="1" tvg-id="m1.hu" tvg-name="M1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLo_l6WssUFielRJdik-64pfihAtnQrgSAI5nFmFR8rZk.png" group-title="Magyar TV",M1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz0lpTlpEME2Sr0Xm-pxwX5
+#EXTINF:-1 timeshift="10" xui-id="2" tvg-id="m1.hu" tvg-name="M1" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLo_l6WssUFielRJdik-64pfihAtnQrgSAI5nFmFR8rZk.png" group-title="Magyar TV",M1
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImAScVEZ0brwhK7xyVVRUic
+#EXTINF:-1 xui-id="3" tvg-id="m2.hu" tvg-name="M2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/17daeccd52fd4e3bf9ff1f9559e3b8da.png" group-title="Magyar TV",M2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZcQwVMrrjgd6WxQi-ZhuusJ
+#EXTINF:-1 xui-id="4" tvg-id="m2.hu" tvg-name="M2" tvg-logo="http://live.huntv.net:8080/images/17daeccd52fd4e3bf9ff1f9559e3b8da.png" group-title="Magyar TV",M2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxnI5t5-sqJE_Eo2L269VBW
+#EXTINF:-1 xui-id="26" tvg-id="m5.hu" tvg-name="M5 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/f1b40fd7dea5adc24b8384a84a61c6a3.png" group-title="Magyar TV",M5 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImDh4Ev-k7AFsP6dLcbjAlQ
+#EXTINF:-1 xui-id="25" tvg-id="m5.hu" tvg-name="M5" tvg-logo="http://live.huntv.net:8080/images/7b0e19ec7139a31e206650ff0c4e8d79.png" group-title="Magyar TV",M5
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInDXu4zkYDVcKRzpommVvby
+#EXTINF:-1 timeshift="10" xui-id="6" tvg-id="tv2.hu" tvg-name="TV 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/60708effe6617a86fa7ebc38972b3954.png" group-title="Magyar TV",TV 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXAOcp1H1TnGQzgq__c4OpSu
+#EXTINF:-1 timeshift="10" xui-id="7" tvg-id="tv2.hu" tvg-name="TV 2" tvg-logo="http://live.huntv.net:8080/images/60708effe6617a86fa7ebc38972b3954.png" group-title="Magyar TV",TV 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78KEthfkDOKjtFbmWu57AQA
+#EXTINF:-1 xui-id="73022" tvg-id="fem3.hu" tvg-name="TV 2 KLUB" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFC1nVgFr1iykPxKQBlqMJse9aeEbWDKEuUPUBeeLK7EULRl5p9Y2yJrDir6Megl4ZE.png" group-title="Magyar TV",TV 2 KLUB
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-5jyX78n91TxQXSC0H6zvc
+#EXTINF:-1 timeshift="10" xui-id="8" tvg-id="supertv2.hu" tvg-name="SUPER TV2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/545dcce04347947e7cd4681c67acf1af.png" group-title="Magyar TV",SUPER TV2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawRH1j0n0ukScNO4SuJhxi-D
+#EXTINF:-1 timeshift="10" xui-id="9" tvg-id="supertv2.hu" tvg-name="Super TV2" tvg-logo="http://live.huntv.net:8080/images/545dcce04347947e7cd4681c67acf1af.png" group-title="Magyar TV",Super TV2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqQ8By0hpfUG9tP_nMxabABi
+#EXTINF:-1 timeshift="10" xui-id="11" tvg-id="RTL.hu" tvg-name="RTL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/22105351abe2d4e9caf00a52bca085e3.png" group-title="Magyar TV",RTL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz68iBNsr-FLtGu2GHDwmWS
+#EXTINF:-1 timeshift="10" xui-id="10" tvg-id="RTL.hu" tvg-name="RTL" tvg-logo="http://live.huntv.net:8080/images/22105351abe2d4e9caf00a52bca085e3.png" group-title="Magyar TV",RTL
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzp7QAy68J5dlB701N2De5C
+#EXTINF:-1 timeshift="10" xui-id="12" tvg-id="rtl2.hu" tvg-name="RTL KETTŐ ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/be9aa83efac828387eebb88e3dc9e9c1.png" group-title="Magyar TV",RTL KETTŐ ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzuGDl_tdx5f5E6gFUO2Nm9
+#EXTINF:-1 timeshift="10" xui-id="13" tvg-id="rtl2.hu" tvg-name="RTL KETTŐ" tvg-logo="http://live.huntv.net:8080/images/be9aa83efac828387eebb88e3dc9e9c1.png" group-title="Magyar TV",RTL KETTŐ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxY-MeWI577g5WcqstGEGjk
+#EXTINF:-1 timeshift="10" xui-id="4861" tvg-id="rtlplus.hu" tvg-name="RTL HÁROM ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7b7599959328829193e67e6944a96f52.png" group-title="Magyar TV",RTL HÁROM ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtycH5vxqG6euaSFOZZR1MMc
+#EXTINF:-1 xui-id="14" tvg-id="rtlplus.hu" tvg-name="RTL HÁROM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Rtl_harom_logo_2022.png?20221022084836" group-title="Magyar TV",RTL HÁROM
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxDB2qfmuPDtD5ZVNHvNPSc
+#EXTINF:-1 xui-id="15" tvg-id="rtlgold.hu" tvg-name="RTL GOLD" tvg-logo="http://live.huntv.net:8080/images/9O3NzqbjtPGt4LMcCshFKUULCBU1lrDU3_IV3dFXXyXxMzb85u-5YDZF1zJHWt1Qdxu7q5FrdXyc0NalUQjNkfXK2nKl_P8X4wSaEZlI6uI.png" group-title="Magyar TV",RTL GOLD
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly4nzBR_ImePOwwdDoAno-Z
+#EXTINF:-1 xui-id="71984" tvg-id="rtlotthon.hu" tvg-name="RTL OTTHON ᴴᴰ ✨" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/RTL_Otthon.svg/revision/latest/scale-to-width-down/300" group-title="Magyar TV",RTL OTTHON ᴴᴰ ✨
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-zShRnMFgwDynO4bzxcR39
+#EXTINF:-1 xui-id="73370" tvg-id="" tvg-name="RTL+ VV élő ᴴᴰ" tvg-logo="https://cdn.rtl.hu/45/90/valovilag_tvshow_image_d1eeb52300d21d75b510b6eaea21" group-title="Magyar TV",RTL+ VV élő ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-6cThvMdxSm8yVF8zSRL_n
+#EXTINF:-1 timeshift="10" xui-id="16" tvg-id="dunatv.hu" tvg-name="Duna TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/iDL_UNJn3fVpnZVcFv4AcBWdNr8tOPOwnZkkhAlBn02-CbOqVeLABtIFhie9sZG6mHbcPkkOLnyR40Znum2yw4-lHrHhBzCRGTxyEYZYNmP_pVbCMlgC_hXOS0CZrtM3yIwWNLwuWcw01tE3QjCTRxjAmQfeupfY6OlEMv-XIlk.png" group-title="Magyar TV",Duna TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyw8DorOaIjP6zN5irrouoi
+#EXTINF:-1 xui-id="17" tvg-id="dunatv.hu" tvg-name="Duna TV" tvg-logo="http://live.huntv.net:8080/images/iDL_UNJn3fVpnZVcFv4AcBWdNr8tOPOwnZkkhAlBn02-CbOqVeLABtIFhie9sZG6mHbcPkkOLnyR40Znum2yw4-lHrHhBzCRGTxyEYZYNmP_pVbCMlgC_hXOS0CZrtM3yIwWNLwuWcw01tE3QjCTRxjAmQfeupfY6OlEMv-XIlk.png" group-title="Magyar TV",Duna TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly67rkaX9lheHLX6mktGTUV
+#EXTINF:-1 timeshift="10" xui-id="18" tvg-id="dunaworld.hu" tvg-name="Duna World ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLqsje9Bby549CWunSK2pFXlroj8gVp4Ah64RyYvjilNK.png" group-title="Magyar TV",Duna World ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzLEmZ8Xy_f3-A3JAtn-c5q
+#EXTINF:-1 xui-id="19" tvg-id="dunaworld.hu" tvg-name="Duna World" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLqsje9Bby549CWunSK2pFXlroj8gVp4Ah64RyYvjilNK.png" group-title="Magyar TV",Duna World
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwFgpaMuMumXvYf6LznHgx-
+#EXTINF:-1 timeshift="10" xui-id="21" tvg-id="atv.hu" tvg-name="ATV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0dbc84e48d8e5d47ed6bde65e50ac775.png" group-title="Magyar TV",ATV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImhlOdBDRsoQoqgq4uqIOFh
+#EXTINF:-1 timeshift="10" xui-id="22" tvg-id="atv.hu" tvg-name="ATV" tvg-logo="http://live.huntv.net:8080/images/0dbc84e48d8e5d47ed6bde65e50ac775.png" group-title="Magyar TV",ATV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIlbNGVQ0dY3FwkEcQmUPL3P
+#EXTINF:-1 xui-id="23" tvg-id="atvspirit.hu" tvg-name="Atv Spirit ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a56e0dedecfa7c523188093d5f541b98.png" group-title="Magyar TV",Atv Spirit ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIlIb6nUAfL0Vjdwk8Ao9WWA
+#EXTINF:-1 xui-id="24" tvg-id="atvspirit.hu" tvg-name="Atv Spirit" tvg-logo="http://live.huntv.net:8080/images/a56e0dedecfa7c523188093d5f541b98.png" group-title="Magyar TV",Atv Spirit
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIl0VxXPgxrHrRGr2AHR-2vI
+#EXTINF:-1 timeshift="10" xui-id="27" tvg-id="hirtv.hu" tvg-name="HIR TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ca151ccbf837d520b5b1643a4cbdc7b4.png" group-title="Magyar TV",HIR TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInlgWxJyEDdB6vOUezaeHXw
+#EXTINF:-1 xui-id="210" tvg-id="hirtv.hu" tvg-name="Hir TV" tvg-logo="http://live.huntv.net:8080/images/ca151ccbf837d520b5b1643a4cbdc7b4.png" group-title="Magyar TV",Hir TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImO3XnNsAb2FHcYGqEwdAtW
+#EXTINF:-1 xui-id="69385" tvg-id="Erdelytv.hu" tvg-name="Erdély TV" tvg-logo="http://live.huntv.net:8080/images/15d8bad51e75d7baa80013b2a448cf29.jpg" group-title="Magyar TV",Erdély TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCVjIx0Ltak7dVusiSeUfX3
+#EXTINF:-1 xui-id="70344" tvg-id="" tvg-name="Pannon RTV" tvg-logo="http://live.huntv.net:8080/images/zt5fhP6-ok6yBMkNgtoEShwiesE8IHNKjHIL7EGAkZ2qzOLGxSBpGEdzwWpvPRfir08IH9HVEbJSF268KnIGCctV80gFGUd-X-xyilbJjYkBUexrxfO1X1B4ePyJy34s.jpg" group-title="Magyar TV",Pannon RTV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78eCVot27Sr9V2ohSMxOTKv
+#EXTINF:-1 xui-id="209" tvg-id="euronews.hu" tvg-name="EURONEWS ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d85965ba58088bd4b4a0699a894cb3e9.png" group-title="Magyar TV",EURONEWS ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInRDTPsm0rfJM3jPTakpDZ8
+#EXTINF:-1 xui-id="212" tvg-id="paxtv.hu" tvg-name="PAX TV" tvg-logo="https://static.wikia.nocookie.net/gameshows/images/1/1b/2000px-PAX_logo.svg.png/revision/latest/scale-to-width-down/340?cb=20170222201259" group-title="Magyar TV",PAX TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInk3xnc1yCG0-CypCteWBZs
+#EXTINF:-1 xui-id="206" tvg-id="tv2sef.hu" tvg-name="TV2 Sef" tvg-logo="http://live.huntv.net:8080/images/6c024f058824ba87dcee9a6337d775a7.png" group-title="Magyar TV",TV2 Sef
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIkib_m1TvVsvMR3HSNuzH80
+#EXTINF:-1 xui-id="205" tvg-id="tvpaprika.hu" tvg-name="TV Paprika ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/79d6c98000a430e26175266ef2c0ef6b.png" group-title="Magyar TV",TV Paprika ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImb1c_-6XurEL5tqM8HYQZp
+#EXTINF:-1 xui-id="204" tvg-id="tvpaprika.hu" tvg-name="TV Paprika" tvg-logo="http://live.huntv.net:8080/images/79d6c98000a430e26175266ef2c0ef6b.png" group-title="Magyar TV",TV Paprika
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIlwM0zu2SzL9aZJIkoOMOs0
+#EXTINF:-1 xui-id="4185" tvg-id="foodnetwork.hu" tvg-name="Food Network ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/762b869dd1c72f17cabcd74e183c6bfb.png" group-title="Magyar TV",Food Network ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDty1149hK2OOq1qrl2lsI9gr
+#EXTINF:-1 xui-id="67166" tvg-id="foodnetwork.hu" tvg-name="Food Network" tvg-logo="http://live.huntv.net:8080/images/762b869dd1c72f17cabcd74e183c6bfb.png" group-title="Magyar TV",Food Network
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXA1geUz_KgtGvKm-c94O8kw
+#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="⭐ Films ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Films",⭐ Films ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInZiZ6v4vGwrYNzYBmHeE61
+#EXTINF:-1 timeshift="10" xui-id="29" tvg-id="hbo.hu" tvg-name="HBO ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/hhrKT7FcHcKdJZpViKaDYEDkeX2PSvL2UaAJBB57yCxyeIRiT8Qyeu-7oaxp3ctgLu0Qi3c9_PuGseomrRGdP3pr1z9NQd95qdZ2Dw9R7CAvoEqx_2U1hh3qQF3xHBuF.png" group-title="Films",HBO ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImyLdKbLQCRZJkshytizU2P
+#EXTINF:-1 xui-id="30" tvg-id="hbo.hu" tvg-name="HBO" tvg-logo="http://live.huntv.net:8080/images/hhrKT7FcHcKdJZpViKaDYEDkeX2PSvL2UaAJBB57yCxyeIRiT8Qyeu-7oaxp3ctgLu0Qi3c9_PuGseomrRGdP3pr1z9NQd95qdZ2Dw9R7CAvoEqx_2U1hh3qQF3xHBuF.png" group-title="Films",HBO
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZcFBzEixexuSgPtqfqNHN-q
+#EXTINF:-1 timeshift="10" xui-id="31" tvg-id="hbo2.hu" tvg-name="HBO 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/f0fc27380e14644318ea28a7f05ae79d.png" group-title="Films",HBO 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZdkqGjFm1uD76zh8dRf5mNs
+#EXTINF:-1 xui-id="32" tvg-id="hbo2.hu" tvg-name="HBO 2" tvg-logo="http://live.huntv.net:8080/images/f0fc27380e14644318ea28a7f05ae79d.png" group-title="Films",HBO 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZeDeJEjv6t2iqOw8k31pa4q
+#EXTINF:-1 timeshift="10" xui-id="33" tvg-id="hbo3.hu" tvg-name="HBO 3 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/8b78a557a4550421c95c2d0cc7a6be57.png" group-title="Films",HBO 3 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZdRW9vCD8md4UzuOQEinD10
+#EXTINF:-1 xui-id="34" tvg-id="hbo3.hu" tvg-name="HBO 3" tvg-logo="http://live.huntv.net:8080/images/8b78a557a4550421c95c2d0cc7a6be57.png" group-title="Films",HBO 3
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZcfa1vJn5m8EHCGHs9IlSqP
+#EXTINF:-1 timeshift="10" xui-id="38" tvg-id="Cinemax.hu" tvg-name="CINEMAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d7d997ff8abbb7b06f9c9d4f6457c481.png" group-title="Films",CINEMAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZeLibdFSThfi5cNy2RSvyyY
+#EXTINF:-1 xui-id="39" tvg-id="Cinemax.hu" tvg-name="CINEMAX" tvg-logo="http://live.huntv.net:8080/images/08db8bce0cabcb9141e435c70e4a3b46.png" group-title="Films",CINEMAX
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZdkaGQImEr4lmkj9JoO8YN-
+#EXTINF:-1 timeshift="10" xui-id="40" tvg-id="cinemax2.hu" tvg-name="CINEMAX 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b62cf6b665705b330aabe76c0307ced3.png" group-title="Films",CINEMAX 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtzqVuy-qvtV1f7n0FafIISu
+#EXTINF:-1 xui-id="41" tvg-id="cinemax2.hu" tvg-name="CINEMAX 2" tvg-logo="http://live.huntv.net:8080/images/3d501668b15c135ac74afc0b4fc08b22.png" group-title="Films",CINEMAX 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtyhbeYl0nx1N1R9k3Y9Hc8O
+#EXTINF:-1 xui-id="48" tvg-id="filmboxpremium.hu" tvg-name="Filmbox Premium" tvg-logo="http://live.huntv.net:8080/images/081fd39452a12f6784af30c8dcf4f669.png" group-title="Films",Filmbox Premium
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtyFHYCNhJrg79RFb9zQiS9l
+#EXTINF:-1 timeshift="10" xui-id="49" tvg-id="FilmboxExtra.hu" tvg-name="FilmBox Extra ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/4fddc9bec6866ee0e774d6b2177273f6.png" group-title="Films",FilmBox Extra ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwbKToSo1rJpLBLDmtH9pXH
+#EXTINF:-1 xui-id="50" tvg-id="filmbox.hu" tvg-name="Filmbox" tvg-logo="http://live.huntv.net:8080/images/326b0375cee6a9f067c68e63dfa26232.png" group-title="Films",Filmbox
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ib36DYBzKC0qm1Oqs7hjyLg
+#EXTINF:-1 xui-id="51" tvg-id="FilmboxFamily.hu" tvg-name="Filmbox Family" tvg-logo="http://live.huntv.net:8080/images/62667515dfe0317e800ca78879f7ea68.png" group-title="Films",Filmbox Family
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibDj6Ki-nMk_Pp3p00daqlM
+#EXTINF:-1 xui-id="52" tvg-id="filmboxstars.hu" tvg-name="FilmBox Stars" tvg-logo="http://live.huntv.net:8080/images/848a19eb23959809f8c24f15bc538976.png" group-title="Films",FilmBox Stars
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iY29Nctm0tD_PPJPjYgeb96
+#EXTINF:-1 timeshift="10" xui-id="53" tvg-id="filmplus.hu" tvg-name="Film+ ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/be56fd6109ac903d455f6d610319e007.png" group-title="Films",Film+ ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iavUk2N5Hqua5GDqKP12MsP
+#EXTINF:-1 xui-id="54" tvg-id="filmplus.hu" tvg-name="Film+" tvg-logo="http://live.huntv.net:8080/images/bb870b0a4950980b29c8a77f7c3ba57b.png" group-title="Films",Film+
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iY4w8p_hUE-v7BsufzRA5qL
+#EXTINF:-1 timeshift="10" xui-id="55" tvg-id="filmcafe.hu" tvg-name="Film Cafe ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/1b48588566b5a8a996229ddc5ddb131b.png" group-title="Films",Film Cafe ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZ1K7NRZTqggDcmdfOutiQH
+#EXTINF:-1 xui-id="56" tvg-id="filmcafe.hu" tvg-name="Film Cafe" tvg-logo="http://live.huntv.net:8080/images/931485029cfa4632d6c9670dd2f73a54.png" group-title="Films",Film Cafe
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iawLfxX7MLYDj0gKfobyjdd
+#EXTINF:-1 timeshift="10" xui-id="37965" tvg-id="filmmania.hu" tvg-name="FILM MANIA ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0vkHKr3o-xyB3LNUPxWnBRRmZDzPOtiJQMEeML8xYGPWwyHAVj7YiBNqEohE9cvyglTjUoJfI49Zopzc4EKKaftjn_Y9xdlDAotb2N0pbDun_e2cDVNV3aR0TXTb9ONy1xEVfPTqxDd09cOKaEiI4A.png" group-title="Films",FILM MANIA ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZdbHUKwjr8xT42O7fnwtv_l
+#EXTINF:-1 xui-id="57" tvg-id="filmmania.hu" tvg-name="Film Mania" tvg-logo="http://live.huntv.net:8080/images/ec1f230094fa5f9c97431c94925ee8d4.png" group-title="Films",Film Mania
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaQ-JEl1B9dsxi3F3ADQ34J
+#EXTINF:-1 timeshift="10" xui-id="4436" tvg-id="Film4.hu" tvg-name="Film 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/c1a56cd7a957401898a0a5beed6dca66.png" group-title="Films",Film 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtycPw3ldikLnYKneYNCudgB
+#EXTINF:-1 xui-id="59" tvg-id="Film4.hu" tvg-name="Film 4" tvg-logo="http://live.huntv.net:8080/images/hhrKT7FcHcKdJZpViKaDYEDkeX2PSvL2UaAJBB57yCxyeIRiT8Qyeu-7oaxp3ctgLu0Qi3c9_PuGseomrRGdP1HVbSy2fdcTe9FdoMdXBHhMP2fywwXW2rrBLdD_gL8-.png" group-title="Films",Film 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iY7-U-X3IskW3iAFT7_9xyr
+#EXTINF:-1 xui-id="63718" tvg-id="magyar.mozi.hu" tvg-name="MAGYAR MOZI TV" tvg-logo="http://live.huntv.net:8080/images/hhrKT7FcHcKdJZpViKaDYEDkeX2PSvL2UaAJBB57yCxyeIRiT8Qyeu-7oaxp3ctgLu0Qi3c9_PuGseomrRGdP8VBoU7tHVq238pFNTSXK-vvkQd67cKc5Ea3GqbVxoEY.png" group-title="Films",MAGYAR MOZI TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXBoS-s_0Tk2lOGtm0QXzxIf
+#EXTINF:-1 xui-id="69155" tvg-id="max4.hu" tvg-name="MAX 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFAYz6uNzyn_bJsNEGFyDm-ijUM1bZXqwhTIv-kHi3cB3VKpysujBxoE5cFxnnPsT4o.png" group-title="Films",MAX 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXBL4UvJv0i3Kc5X2NMEmLOE
+#EXTINF:-1 xui-id="61383" tvg-id="max4.hu" tvg-name="MAX 4" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFAYz6uNzyn_bJsNEGFyDm-ijUM1bZXqwhTIv-kHi3cB3VKpysujBxoE5cFxnnPsT4o.png" group-title="Films",MAX 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXDxW_dl5orzE4RgluFtOXj_
+#EXTINF:-1 timeshift="10" xui-id="60" tvg-id="Moziverzum.hu" tvg-name="Moziverzum ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b71501b98c0e14990153b0675034961a.png" group-title="Films",Moziverzum ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCj435uGGzwaUcMaal0slAy
+#EXTINF:-1 xui-id="61" tvg-id="Moziverzum.hu" tvg-name="Moziverzum" tvg-logo="http://live.huntv.net:8080/images/62daabc4b852c486a7d0d462debe9fc6.png" group-title="Films",Moziverzum
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXByC1HGY94DDrxBzgOuUGDI
+#EXTINF:-1 timeshift="10" xui-id="63" tvg-id="MoziPlus.hu" tvg-name="Mozi+ ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/049f55c6f1c0e2b7d9b5c50270a6d737.png" group-title="Films",Mozi+ ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCiDRbAHZrFYkYRk5MIPYek
+#EXTINF:-1 xui-id="62" tvg-id="MoziPlus.hu" tvg-name="Mozi+" tvg-logo="http://live.huntv.net:8080/images/049f55c6f1c0e2b7d9b5c50270a6d737.png" group-title="Films",Mozi+
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXABF8N_QOiinKZraK7-WjjJ
+#EXTINF:-1 xui-id="71987" tvg-id="moziklub.hu" tvg-name="MOZI KLUB ✨" tvg-logo="http://live.huntv.net:8080/images/8d790c9ebed455ed4fe93280a3d0ad21.png" group-title="Films",MOZI KLUB ✨
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78yxCpQ0I6o4fSR_ZBrquef
+#EXTINF:-1 timeshift="10" xui-id="64" tvg-id="ParamountChannel.hu" tvg-name="Paramount Channel ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/qDE8e70lyv5uv48JT1wlokZSqT50wQQtVmcqs6_qu5PUMp6HcYbiFDdSsqM6aHjYV5o3wMFYYpBdh53S6aSUqw.png" group-title="Films",Paramount Channel ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXC-B_Ab13zOAv0ZQPEP8yag
+#EXTINF:-1 xui-id="65" tvg-id="ParamountChannel.hu" tvg-name="Paramount Channel" tvg-logo="http://live.huntv.net:8080/images/qDE8e70lyv5uv48JT1wlokZSqT50wQQtVmcqs6_qu5PUMp6HcYbiFDdSsqM6aHjYV5o3wMFYYpBdh53S6aSUqw.png" group-title="Films",Paramount Channel
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXByQZoF7IKUTzd03fdUdxkE
+#EXTINF:-1 timeshift="10" xui-id="66" tvg-id="AMC.hu" tvg-name="AMC ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/2dfca91b78b3c663f0e9888412241fed.jpg" group-title="Films",AMC ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXAvlggKVwUTbz7kjxEzw_Vs
+#EXTINF:-1 xui-id="67" tvg-id="AMC.hu" tvg-name="AMC" tvg-logo="http://live.huntv.net:8080/images/48c2083941a4fe0d768a785ec2a797ee.png" group-title="Films",AMC
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCd4aLcBf4cFN40_PTdonRK
+#EXTINF:-1 timeshift="10" xui-id="68" tvg-id="AXN.hu" tvg-name="AXN ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a4d4f409cc907723740c468ff1af14ff.png" group-title="Films",AXN ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXA8MsdypaXrejc6Rda1Ksii
+#EXTINF:-1 xui-id="69" tvg-id="AXN.hu" tvg-name="AXN" tvg-logo="http://live.huntv.net:8080/images/5b4269bca05f764ba59f4abbc2a684bc.png" group-title="Films",AXN
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXASkOigzpfpTAAf1GgBwH30
+#EXTINF:-1 timeshift="10" xui-id="74" tvg-id="Cool.hu" tvg-name="Cool ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9e7d11f945f21884db9ed91aeb5d519d.png" group-title="Films",Cool ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_fpU7NCNHcqqtBgMO_2_Xs
+#EXTINF:-1 xui-id="75" tvg-id="Cool.hu" tvg-name="Cool" tvg-logo="http://live.huntv.net:8080/images/1503ed9430f779a2dd989f3b727138fa.png" group-title="Films",Cool
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_ugJ542jUF3dxnTIjomPxk
+#EXTINF:-1 timeshift="10" xui-id="4434" tvg-id="Story4.hu" tvg-name="Story 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b41f2c253fdebe6fcdb8ab4a245cad86.png" group-title="Films",Story 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtyC9zDuzh81-kAAKugVRhdU
+#EXTINF:-1 xui-id="76" tvg-id="Story4.hu" tvg-name="STORY 4" tvg-logo="http://live.huntv.net:8080/images/b41f2c253fdebe6fcdb8ab4a245cad86.png" group-title="Films",STORY 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-c0kaSLQ16h3LJku_Wbxvy
+#EXTINF:-1 timeshift="10" xui-id="4435" tvg-id="Galaxy4.hu" tvg-name="Galaxy 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/35b50efa362450f0839d9a0efab7e69e.png" group-title="Films",Galaxy 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwYfFeJJrhf9dTX2upZo3BJ
+#EXTINF:-1 xui-id="77" tvg-id="Galaxy4.hu" tvg-name="Galaxy 4" tvg-logo="http://live.huntv.net:8080/images/35b50efa362450f0839d9a0efab7e69e.png" group-title="Films",Galaxy 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-vr12d6lhTU0Wh__I_R2oG
+#EXTINF:-1 xui-id="73" tvg-id="viasatfilm.hu" tvg-name="VIASAT FILM" tvg-logo="http://live.huntv.net:8080/images/15f56be3e4f0e8c591e6b539d99604c7.png" group-title="Films",VIASAT FILM
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq789mzs2fhZu8ObTOWeSs7Qy
+#EXTINF:-1 xui-id="72" tvg-id="viasat2.hu" tvg-name="VIASAT 2" tvg-logo="http://live.huntv.net:8080/images/14d8bf9322a99fd5873d03fec6585244.png" group-title="Films",VIASAT 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq79wu4qTWTaHA8UafdlAJ4gO
+#EXTINF:-1 timeshift="10" xui-id="78" tvg-id="Viasat3.hu" tvg-name="VIASAT 3 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/56e7315a4d3ffea5f90f1f70a269b60c.png" group-title="Films",VIASAT 3 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq79sLGTxQ4EiqIDyU9-Wzsba
+#EXTINF:-1 xui-id="79" tvg-id="Viasat3.hu" tvg-name="VIASAT 3" tvg-logo="http://live.huntv.net:8080/images/56e7315a4d3ffea5f90f1f70a269b60c.png" group-title="Films",VIASAT 3
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_603KcnIMDk6hC96LuxTmb
+#EXTINF:-1 timeshift="10" xui-id="80" tvg-id="Viasat6.hu" tvg-name="VIASAT 6" tvg-logo="http://live.huntv.net:8080/images/3a44766aafc64433dfbdd3ad88ebb0a8.png" group-title="Films",VIASAT 6
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawQJMHMJZ2BB33AA_u9QZE_Z
+#EXTINF:-1 xui-id="81" tvg-id="comedycentralfamily.hu" tvg-name="Comedy Central Family" tvg-logo="http://live.huntv.net:8080/images/c09d4d089144b031a76b2335f22880a2.png" group-title="Films",Comedy Central Family
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawT9FM3Yv_gTpcbDCeLLgqpf
+#EXTINF:-1 timeshift="10" xui-id="67164" tvg-id="ComedyCentral.hu" tvg-name="Comedy Central ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/qpBGm61kkfteqf0Wod2_KBUfBKLnhPw8b82SMeI8qVzDk6vyX4fSZ_EwWvER_HqIs10m5So_6DT2VQv_doaYf5g3r8v2CbmaTf91kC74Isy6zvsyK3xHW-Ahnkyfxl1v.png" group-title="Films",Comedy Central ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCVzLH3rUYJ7AdX74Vc6agl
+#EXTINF:-1 xui-id="83" tvg-id="ComedyCentral.hu" tvg-name="Comedy Central" tvg-logo="http://live.huntv.net:8080/images/qpBGm61kkfteqf0Wod2_KBUfBKLnhPw8b82SMeI8qVzDk6vyX4fSZ_EwWvER_HqIs10m5So_6DT2VQv_doaYf5g3r8v2CbmaTf91kC74Isy6zvsyK3xHW-Ahnkyfxl1v.png" group-title="Films",Comedy Central
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawTSSKifUUlZ1i1SQsn3YlIx
+#EXTINF:-1 xui-id="88" tvg-id="tv2comedy.hu" tvg-name="TV2 Comedy" tvg-logo="http://live.huntv.net:8080/images/1174fe2d600082f97ac56c9835a2fa46.png" group-title="Films",TV2 Comedy
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSIQuajkGQj11awRa3iuKav
+#EXTINF:-1 xui-id="85" tvg-id="sorozatplus.hu" tvg-name="Sorozat+" tvg-logo="http://live.huntv.net:8080/images/e1f28c910db5228d4c88dd41f87cc9db.png" group-title="Films",Sorozat+
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawT4nuQ5Zf6KmNuelPFHrbWr
+#EXTINF:-1 xui-id="71985" tvg-id="sorozatklub.hu" tvg-name="SOROZAT KLUB ✨" tvg-logo="http://live.huntv.net:8080/images/a1f72e4d1a8b4ae83a565923af275983.png" group-title="Films",SOROZAT KLUB ✨
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-P0vmmIyHizoyVI6erFwD6
+#EXTINF:-1 xui-id="86" tvg-id="JockyTV.hu" tvg-name="Jocky TV" tvg-logo="http://live.huntv.net:8080/images/f5853a965b1213cd5ebf64403066b8a3.png" group-title="Films",Jocky TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawS2NufEABQo-ou4k4yM6dcn
+#EXTINF:-1 xui-id="57435" tvg-id="IzauraTV.hu" tvg-name="IZAURA TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Izaura_TV_logo.svg/909px-Izaura_TV_logo.svg.png?20160810143954" group-title="Films",IZAURA TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaVPwEoeZKo0aFjrOyTxJg0
+#EXTINF:-1 xui-id="87" tvg-id="IzauraTV.hu" tvg-name="Izaura TV" tvg-logo="http://live.huntv.net:8080/images/ca168ab5b5f14d4f6b1e2e52e7c64b93.png" group-title="Films",Izaura TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawS5zljmvd_tma9MIK08IwMz
+#EXTINF:-1 timeshift="10" xui-id="4444" tvg-id="TV4.hu" tvg-name="TV4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/c0c510918b3d621a05054e08747d4922.png" group-title="Films",TV4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtzLyko-keDkvA7B6WSjRYjh
+#EXTINF:-1 xui-id="89" tvg-id="TV4.hu" tvg-name="TV4" tvg-logo="http://live.huntv.net:8080/images/a53bfc153667519b6e52b5a01b544510.png" group-title="Films",TV4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawS2A7Hi0dqKViLrg_0m1n1-
+#EXTINF:-1 timeshift="10" xui-id="90" tvg-id="EpicDrama.hu" tvg-name="Epic Drama ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b59d36fc2a70ada15dc433c761950a93.png" group-title="Films",Epic Drama ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqROduk5i5FWyhm2HUNilV-Q
+#EXTINF:-1 xui-id="4918" tvg-id="EpicDrama.hu" tvg-name="Epic Drama" tvg-logo="http://live.huntv.net:8080/images/fu9cQscyo2cVRbqusLUIGr24rz8jOnYnvTWZMeB2PHlais9PYewrm3NFZIbMpWUM.png" group-title="Films",Epic Drama
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtzzzntjG2kIwqvn0lIXkYOn
+#EXTINF:-1 timeshift="10" xui-id="4443" tvg-id="prime.hu" tvg-name="Prime ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9c30f2a23a6e4290efc189ed0ec513b7.png" group-title="Films",Prime ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwFnYCE7_q4yGITLRmOv4sh
+#EXTINF:-1 xui-id="92" tvg-id="prime.hu" tvg-name="Prime" tvg-logo="http://live.huntv.net:8080/images/f2028a70910327cae89ada8ccd4a5440.png" group-title="Films",Prime
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqTfrDT1O9FowLiLJl5dGIoD
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="⭐ Kids ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Kids",⭐ Kids ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqQ4NEYVXOYqPs2b719Hgdam
+#EXTINF:-1 xui-id="71986" tvg-id="kolyokklub.hu" tvg-name="KÖLYÖK KLUB ᴴᴰ ✨" tvg-logo="http://live.huntv.net:8080/images/5c1a901673e3c6791a998b1357708bec.png" group-title="Kids",KÖLYÖK KLUB ᴴᴰ ✨
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-dPBRIzLxCo6S3JKnvj2C-
+#EXTINF:-1 xui-id="8288" tvg-id="" tvg-name="BABY TV ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282006-.n.v.%29.png/revision/latest" group-title="Kids",BABY TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSJZZMB47B9LGvH07J-C2FN
+#EXTINF:-1 xui-id="94" tvg-id="boomerang.hu" tvg-name="CARTOONITO" tvg-logo="http://live.huntv.net:8080/images/5bD_uosBVQmce7emxl86CR5pOl7S7vvzlrtyweisyJEK9DiIlv_9ncb_XHjSobMhDcUW7M7vMZdaAHcunV8VdQ.png" group-title="Kids",CARTOONITO
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqTrxAlUi-XBQ2u_qdqw0j15
+#EXTINF:-1 xui-id="95" tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFCFQ8QgvP77KDM0uzbRt6U-CUCmHeh7w0_ybNC2wbD4FrMDnusIN8sApwOau_4YI80.png" group-title="Kids",Cartoon Network
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqTzkHNuX0CATx8YA8v22d4N
+#EXTINF:-1 xui-id="96" tvg-id="DJRMTMC" tvg-name="Disney Junior ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/376ea9f2a2be64dc91e0feb920588458.png" group-title="Kids",Disney Junior ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqQaGJwIE47g3raDai3bb5U1
+#EXTINF:-1 xui-id="98" tvg-id="ducktv.hu" tvg-name="DUCK TV" tvg-logo="http://live.huntv.net:8080/images/4f5b45fe8859871dfe4f1ac34a1a339c.jpg" group-title="Kids",DUCK TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqT_M7QtGHHe8YieI6YLqa88
+#EXTINF:-1 xui-id="99" tvg-id="disneychannel.hu" tvg-name="DISNEY CHANNEL" tvg-logo="http://live.huntv.net:8080/images/b53ab2af009486a9b9237d077dfd93fb.png" group-title="Kids",DISNEY CHANNEL
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqSbBcvDJHxiURjtKz1UyuSD
+#EXTINF:-1 xui-id="100" tvg-id="nickelodeon.hu" tvg-name="Nickelodeon" tvg-logo="http://live.huntv.net:8080/images/674489eabf931d440c4c57547d8a6e62.png" group-title="Kids",Nickelodeon
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx_HYCaPzz_kH75C834nmpT
+#EXTINF:-1 xui-id="101" tvg-id="TNCK" tvg-name="Teen Nick" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/teennick_wide.png?itok=1dbv9_Tk" group-title="Kids",Teen Nick
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyClSwwke5H2U40QVHC8njw
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="Tom es Jerry ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7f8784d0aa3f7201dacdb7b042017197.png" group-title="Kids",Tom es Jerry ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwk0mtwt4-xLV99HLz6H_Oh
+#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Mása és a medve ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/cc9051f21cf6f5509e71575a16617919.png" group-title="Kids",Mása és a medve ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx4Uplwyi81a-SurzUu7dOb
+#EXTINF:-1 xui-id="105" tvg-id="jimjam.hu" tvg-name="Jim Jam" tvg-logo="http://live.huntv.net:8080/images/8a7e17c1aba4120a8c0ec5cf298c4428.png" group-title="Kids",Jim Jam
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxa_8giPDtN5eySlghD4YN7
+#EXTINF:-1 xui-id="106" tvg-id="tv2kids.hu" tvg-name="TV2 Kids" tvg-logo="http://live.huntv.net:8080/images/ac82cb9b10450ba3ff24a1319bcb81cc.png" group-title="Kids",TV2 Kids
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxtUrhh053iI8iJlvXAHbTl
+#EXTINF:-1 xui-id="107" tvg-id="minimax.hu" tvg-name="Minimax" tvg-logo="http://live.huntv.net:8080/images/e3aaeff0b6d89db4a393320303b48d4e.png" group-title="Kids",Minimax
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxoRHDZwRIZxyifOllYPGcZ
+#EXTINF:-1 xui-id="108" tvg-id="nickjr.hu" tvg-name="Nick Junior" tvg-logo="http://live.huntv.net:8080/images/de9f8830a72b251b9ad07377ccc5c482.png" group-title="Kids",Nick Junior
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz-N4wozh_BLAQljT-JEL0F
+#EXTINF:-1 xui-id="109" tvg-id="nicktoons.hu" tvg-name="Nicktoons" tvg-logo="http://live.huntv.net:8080/images/4464bdae3c844a4c103e02788abf54ab.png" group-title="Kids",Nicktoons
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx7fAQPJ5nqzfeF1cGQaOB3
+#EXTINF:-1 xui-id="8946" tvg-id="" tvg-name="BABY Bolondos Dallamok ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7f24b267efe9463f5f4655b18aca7ea2.png" group-title="Kids",BABY Bolondos Dallamok ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSrjU6ZGLHXyNGaoKcnSh6-
+#EXTINF:-1 xui-id="8947" tvg-id="" tvg-name="MR.BEAN A Rajzfilsorozat ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/c804f9508ab0b21b0a770fd49491eaa4.png" group-title="Kids",MR.BEAN A Rajzfilsorozat ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSAWtw4F_5VAcSpyyr_6DUH
+#EXTINF:-1 xui-id="8948" tvg-id="" tvg-name="CSAK LAZÁN SCOOBY DOO ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/24e6c60df50af09e7f234d79b82c0a29.png" group-title="Kids",CSAK LAZÁN SCOOBY DOO ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSgbb6APJzHsiGLxI_A5jx4
+#EXTINF:-1 xui-id="8949" tvg-id="" tvg-name="LAZY TOWN ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b23155fef9d47045d7777c50761968f9.png" group-title="Kids",LAZY TOWN ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawQr-alXKSAS7l5UxLWHEgFA
+#EXTINF:-1 xui-id="8950" tvg-id="" tvg-name="Új Bolondos Dallamok ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9935b5dc9664e066157937566bb61ba6.png" group-title="Kids",Új Bolondos Dallamok ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawQz85-dR96XDU22Ct5lmSiz
+#EXTINF:-1 xui-id="27818" tvg-id="" tvg-name="BÉBI ÚR ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Icjp0DdV6-crPiTZngYAColuAypJvZGxQPUaQ1ceEXjua7Q8_ySB5jcNuQv-JmclVnh8UoGgkXU2huG8tXekKqybcJIPKvrY1d3eB0IJD_E1Y9339Pi6qo4d4j0Wxf4O.png" group-title="Kids",BÉBI ÚR ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIkcvP-dCvuWaN9bBjBlaf0b
+#EXTINF:-1 xui-id="27819" tvg-id="" tvg-name="SPONGYABOB KOCKANADRÁG ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/X-kxCu_YSXGCJK_smDEzZabhKC0GjYjNLA40XQ0uqMUPmEGGMDQSRYgdDe0AGLDqycUejRTgMHsmMPxeoTaMJGOLrZ3jaa44Z_i9G6jqf40.png" group-title="Kids",SPONGYABOB KOCKANADRÁG ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIl_bG8ni2vLBgoABNLUoO7J
+#EXTINF:-1 xui-id="8425" tvg-id="" tvg-name="PIZSIHŐSÖK ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/445e9c10aae3a9c40f1c18082790fd17.png" group-title="Kids",PIZSIHŐSÖK ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawS4iFmrZUot3JO175nreq4x
+#EXTINF:-1 xui-id="28144" tvg-id="" tvg-name="NINJAGO ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/803Mw_puxH7XJLuE0C-eQ-y1ZBylt1YtoVRbBubXFY1hW6GqQrKgODbcL3ASwKvrv_MVOltC7gYzgFbAHwyuDR89lqSsTSlcegFZPzhH0zU.png" group-title="Kids",NINJAGO ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImXNij55hPVQWTxmEtbuHay
+#EXTINF:-1 xui-id="34153" tvg-id="" tvg-name="HEY KIDS ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/TPKuNJv_Qt6uLF48aoCzGC035nvRxR7HIN55qDpSt6Kp0dhBbz7r2J65lMtGYmp3tP8" group-title="Kids",HEY KIDS ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZc2ikBXHwhUjoaEJP98d7kv
+#EXTINF:-1 xui-id="34154" tvg-id="" tvg-name="GRIZZY ÉS A LEMINGENEK ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/5bbd1b78764e2b2a0538a78c86bc2b32.png" group-title="Kids",GRIZZY ÉS A LEMINGENEK ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZceux6bUDmjbgsu0ZPL2uKS
+#EXTINF:-1 xui-id="34155" tvg-id="" tvg-name="A MANCS ŐRJÁRAT ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/78b8ff5608800835a9f10152d9c2ab65.jpg" group-title="Kids",A MANCS ŐRJÁRAT ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZfwZOBmO0xo3mC9UINsilc1
+#EXTINF:-1 xui-id="57836" tvg-id="" tvg-name="MICKEY EGÉR JÁTSZÓTERE ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Xst7J6CUF_3P-cJfikEnCLzcNGv3w9g1JC5B3kr_G7B68Lm0D3OFi_tOLnCxJ3NDATWxGHZ1NIdThqkx7PE9nmnsueFiolcBEJHNdpbjzfXmrHP2HC1kDDZAOJ1RhHe3.png" group-title="Kids",MICKEY EGÉR JÁTSZÓTERE ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZriMAMxegQtMfkP9crZ4hR
+#EXTINF:-1 xui-id="97" tvg-id="davincilearning.hu" tvg-name="DA VINCI" tvg-logo="http://live.huntv.net:8080/images/b13c8184b5bf124d2703553e5770c2b2.png" group-title="Kids",DA VINCI
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568kNQ4TuHsb9NBcrsbVHrUqTmepn-t5fs3Q9RwKg-ytlX
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="⭐ Sport ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Sport",⭐ Sport ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwk_jIIrb_xLEVok_Uu_FmG
+#EXTINF:-1 xui-id="113" tvg-id="AUTOSHD" tvg-name="Auto Motor Sport ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d213f807577a66a8edd5bf1de69582b0.png" group-title="Sport",Auto Motor Sport ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxeqO7mUOwk1d533gw2047D
+#EXTINF:-1 timeshift="10" xui-id="133" tvg-id="Arena4.hu" tvg-name="ARENA 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/3642d05f45e72ab617979f6d6123355c.png" group-title="Sport",ARENA 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyEBXGvwPU7o0zOfOCTMpDm
+#EXTINF:-1 xui-id="134" tvg-id="Arena4.hu" tvg-name="ARENA 4" tvg-logo="http://live.huntv.net:8080/images/3642d05f45e72ab617979f6d6123355c.png" group-title="Sport",ARENA 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx2c7xllbGTkwZ5d-1HWw2H
+#EXTINF:-1 timeshift="10" xui-id="120" tvg-id="Eurosport1.hu" tvg-name="Eurosport 1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0270d84c05cb745962f293207c276911.png" group-title="Sport",Eurosport 1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxHDZIAPdked1ulzg-K3-EB
+#EXTINF:-1 xui-id="121" tvg-id="Eurosport1.hu" tvg-name="Eurosport 1" tvg-logo="http://live.huntv.net:8080/images/0270d84c05cb745962f293207c276911.png" group-title="Sport",Eurosport 1
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElw-TqT1Z6bxb_1_5LyRNJYn
+#EXTINF:-1 timeshift="10" xui-id="122" tvg-id="Eurosport2.hu" tvg-name="Eurosport 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/76545af285586e29c9307f02f33b991b.png" group-title="Sport",Eurosport 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyMekIlhhM85ndb81q7ggbQ
+#EXTINF:-1 xui-id="123" tvg-id="Eurosport2.hu" tvg-name="Eurosport 2" tvg-logo="http://live.huntv.net:8080/images/76545af285586e29c9307f02f33b991b.png" group-title="Sport",Eurosport 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly8sBYbxKIhSoPcp5e5QFUl
+#EXTINF:-1 timeshift="10" xui-id="136" tvg-id="m4sport.hu" tvg-name="M4 SPORT ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9285218499f2e4987fa6eba9a621dca5.png" group-title="Sport",M4 SPORT ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwc-CioAi3DDQ9DSbQCult2
+#EXTINF:-1 timeshift="10" xui-id="137" tvg-id="m4sport.hu" tvg-name="M4 Sport HD" tvg-logo="http://live.huntv.net:8080/images/9285218499f2e4987fa6eba9a621dca5.png" group-title="Sport",M4 Sport HD
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz_uBE0s67CPxSppn4ChSeu
+#EXTINF:-1 timeshift="10" xui-id="51218" tvg-id="m4sport.hu" tvg-name="M4 Sport" tvg-logo="http://live.huntv.net:8080/images/9285218499f2e4987fa6eba9a621dca5.png" group-title="Sport",M4 Sport
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ib239IMSXyBst7o8nd_lxvv
+#EXTINF:-1 timeshift="10" xui-id="114" tvg-id="Match4.hu" tvg-name="MATCH 4 ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWJR5jjrgFyGjpVH81F9-p2ESNs_-x1phlfSzahj1VX5wo88VYTHVXYHAaVasJl4YlhI&usqp=CAU" group-title="Sport",MATCH 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxdMPTU02_EeLG77P0rRaU8
+#EXTINF:-1 xui-id="115" tvg-id="Match4.hu" tvg-name="MATCH 4" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/match4_wide.png?itok=rmSeWU2Q" group-title="Sport",MATCH 4
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyZmyyRe6aHKCELZxFbWeF6
+#EXTINF:-1 timeshift="10" xui-id="125" tvg-id="Sport1.hu" tvg-name="SPORT 1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/3a02d439d310ad7aaf2b2d34da3e0dcf.png" group-title="Sport",SPORT 1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxWuGGaisRTLoyyC-Eu6CEm
+#EXTINF:-1 xui-id="126" tvg-id="Sport1.hu" tvg-name="Sport 1" tvg-logo="http://live.huntv.net:8080/images/3a02d439d310ad7aaf2b2d34da3e0dcf.png" group-title="Sport",Sport 1
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElypmPRcfAs00rzLx2nDBj7a
+#EXTINF:-1 timeshift="10" xui-id="127" tvg-id="sport2.hu" tvg-name="SPORT 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/f5d3f104b82c53d45b3b41152b5aa70a.png" group-title="Sport",SPORT 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyUgS5nCi6niKXR-m4_9Ol3
+#EXTINF:-1 xui-id="128" tvg-id="sport2.hu" tvg-name="Sport 2" tvg-logo="http://live.huntv.net:8080/images/f5d3f104b82c53d45b3b41152b5aa70a.png" group-title="Sport",Sport 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly5yfyoP8VdiWOPr6ReRBAk
+#EXTINF:-1 timeshift="10" xui-id="129" tvg-id="SpilerTV.hu" tvg-name="SPILER 1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/08c9e1c1133e457f64586e5727c29d58.png" group-title="Sport",SPILER 1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwKBw196_HgMPa6qbjdvDkX
+#EXTINF:-1 xui-id="130" tvg-id="SpilerTV.hu" tvg-name="SPILER 1" tvg-logo="http://live.huntv.net:8080/images/08c9e1c1133e457f64586e5727c29d58.png" group-title="Sport",SPILER 1
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly_JHPmmCRPL-iaqAusMiHE
+#EXTINF:-1 timeshift="10" xui-id="131" tvg-id="Spiler2TV.hu" tvg-name="SPILER 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0e50ff7be920d93346b39ce8d3963a81.png" group-title="Sport",SPILER 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwEkCQRBKJO34nTF1qBAZpG
+#EXTINF:-1 xui-id="132" tvg-id="Spiler2TV.hu" tvg-name="SPILER 2" tvg-logo="http://live.huntv.net:8080/images/0e50ff7be920d93346b39ce8d3963a81.png" group-title="Sport",SPILER 2
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx134fdkJmGujojvrUHxsmr
+#EXTINF:-1 xui-id="62601" tvg-id="FIGHTBX" tvg-name="FIGHTBOX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/12dd389eb633c57a69df9e0742d9dc95.png" group-title="Sport",FIGHTBOX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCTujDYfE4wcnyr2LIbRNyo
+#EXTINF:-1 xui-id="8916" tvg-id="SSPOF1H" tvg-name="SKY SPORTS F1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a8015ac1295252047566492395da0f0a.png" group-title="Sport",SKY SPORTS F1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawR93tESNclsy16owG5fJyHf
+#EXTINF:-1 xui-id="8917" tvg-id="SSPOPL" tvg-name="SKY Sports Premier League ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/c4daff21c4d252e3b86d6ae694e29bf3.png" group-title="Sport",SKY Sports Premier League ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawTSX1hLQMp4iRpgiotChnOA
+#EXTINF:-1 xui-id="8918" tvg-id="SSPFTHD" tvg-name="SKY Sports Football ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/949cf5ebd359b7c3419d1471e6a875f9.png" group-title="Sport",SKY Sports Football ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSoeH7jucme0V5bzvE4ySEC
+#EXTINF:-1 xui-id="73330" tvg-id="" tvg-name="UEFA LEAGUE 1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/UDDmpvg9wwtIuOGECpL9izIxWFrGVa8XcBMj2wdfg2-WehTNBRIWUe8qDOmT8mtB5RvVRS2lZn10MIE3Ybp1BXBk21euD7DfHL_LnhV5O8tTJguyYGdvfFjIpawic_30W4b8HZvnmLI_PHmBHouWQt84gSL68KraTO3r9_L0aCpbznK0undtvCC_-ZK72Mpl3k6DgnFKoCsrH_1_T_pnDQ.png" group-title="Sport",UEFA LEAGUE 1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_0SDvm1KXeor_IiKpne_Vl
+#EXTINF:-1 xui-id="73331" tvg-id="" tvg-name="UEFA LEAGUE 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/UDDmpvg9wwtIuOGECpL9izIxWFrGVa8XcBMj2wdfg2-WehTNBRIWUe8qDOmT8mtB5RvVRS2lZn10MIE3Ybp1BXBk21euD7DfHL_LnhV5O8tTJguyYGdvfFjIpawic_30W4b8HZvnmLI_PHmBHouWQt84gSL68KraTO3r9_L0aCpbznK0undtvCC_-ZK72Mpl3k6DgnFKoCsrH_1_T_pnDQ.png" group-title="Sport",UEFA LEAGUE 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78rd1Yy_bHfesRXeX4fU2uJ
+#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="⭐ Music ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Music",⭐ Music ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyiEwmUKsG7lIr1Ce5dIxkd
+#EXTINF:-1 xui-id="154" tvg-id="dikh.tv" tvg-name="DIKH TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9544975e6a496b7e0d8c17d9f4357083.png" group-title="Music",DIKH TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwuZfKyCmgIpS6_swbZjRzy
+#EXTINF:-1 xui-id="155" tvg-id="dikh.tv" tvg-name="DIKH TV" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/dikhtv_wide.png?itok=NU43c6Y9" group-title="Music",DIKH TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElw5bcf7oH-SMv022IMHDdGV
+#EXTINF:-1 xui-id="52003" tvg-id="" tvg-name="DICSERETEK" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-PdUKjsX72-15SMuJw2ielQM1h01jwqSWfWaqQ=s900-c-k-c0x00ffffff-no-rj" group-title="Music",DICSERETEK
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYduUP7auGO13hN8P_KC6Bk
+#EXTINF:-1 xui-id="4439" tvg-id="" tvg-name="First Music ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/5275c07aa32e6e8311d5bccb653c4fe7.png" group-title="Music",First Music ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxqdMu31r5whE44FYk_y5fD
+#EXTINF:-1 xui-id="67165" tvg-id="" tvg-name="JAZZ TV" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/jazztv_wide.png?itok=BYN3aSfx" group-title="Music",JAZZ TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXDmC_W9o8XGoxZpzcuRMSHP
+#EXTINF:-1 xui-id="4441" tvg-id="" tvg-name="KRONEHIT TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/28953dae66c03986938ad7daec151176.png" group-title="Music",KRONEHIT TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxwO4gaCgDJjdZ_bI3N87Pn
+#EXTINF:-1 xui-id="148" tvg-id="muzsikatv.hu" tvg-name="Muzsika TV" tvg-logo="http://live.huntv.net:8080/images/e74ae9448899a8ef682f944a2e10fe9d.png" group-title="Music",Muzsika TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElw4BghyiYRk58vG1Ry0eB9X
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="Mooz Dance" tvg-logo="http://live.huntv.net:8080/images/93c482ae0ffd3bb95a405f3be0a183d5.png" group-title="Music",Mooz Dance
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx6J2r-nqEUCyRbNoIC7O9P
+#EXTINF:-1 xui-id="4442" tvg-id="MTVMSUK" tvg-name="MTV MUSIC" tvg-logo="http://live.huntv.net:8080/images/a0432a1f9b3e831cebd8669d3fc140fe.png" group-title="Music",MTV MUSIC
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDty1gcWiL91Tpi-nD0444dt0
+#EXTINF:-1 xui-id="143" tvg-id="mtv.hu" tvg-name="MTV Club" tvg-logo="http://live.huntv.net:8080/images/7b4862b899b5d6726b9c4eabb6163fda.jpg" group-title="Music",MTV Club
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzYd_-lXjp7VV7rK5uwsrBB
+#EXTINF:-1 xui-id="144" tvg-id="MTVMANZ" tvg-name="MTV Hits" tvg-logo="http://live.huntv.net:8080/images/ce7a6a0d52a5b9eaea13b1332504e952.png" group-title="Music",MTV Hits
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx5-teecd8trwAOq2YPEAFo
+#EXTINF:-1 xui-id="4437" tvg-id="mtv80s.hu" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png?20221103194449" group-title="Music",MTV 80s
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtzoUSwK_f-K29vm77jQEWAx
+#EXTINF:-1 xui-id="145" tvg-id="" tvg-name="MTV 90s" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mtv_90s_wide.png?itok=kbOpLuan" group-title="Music",MTV 90s
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyMRNYRTZZroLpQxSHPQCNj
+#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="MTV 00s" tvg-logo="https://cdn.shopify.com/s/files/1/0088/6675/8707/products/Viacom_MTV_Pillow16inX16inPRTGENSLG16B_MTV-MA80-PL_Image01_4b293cd9-de83-4771-a42a-247ef7591989_600x.jpg?v=1582734478" group-title="Music",MTV 00s
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz78dWXreqGi-7n7bRV38Co
+#EXTINF:-1 xui-id="4440" tvg-id="" tvg-name="MAGIC TV" tvg-logo="http://live.huntv.net:8080/images/8468a879b2ba185cebfcaf3ff18e3bd4.png" group-title="Music",MAGIC TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtyAyHVyjyQmUhbMDyj8Gn5q
+#EXTINF:-1 xui-id="150" tvg-id="slagertv.hu" tvg-name="Sláger TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/b0d5e4cc6554d94de70c13269a7e63b2.png" group-title="Music",Sláger TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxWfIelQH4ODaDDhEXZi6a9
+#EXTINF:-1 xui-id="149" tvg-id="slagertv.hu" tvg-name="Slager TV" tvg-logo="http://live.huntv.net:8080/images/424d13008ee962f62e61336f0fd9d69f.png" group-title="Music",Slager TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzn5g-Xmz6Q6DvrOsePNo5w
+#EXTINF:-1 xui-id="147" tvg-id="zenebutik.hu" tvg-name="ZENEBUTIK" tvg-logo="http://live.huntv.net:8080/images/f16d462c8b03577407ed2e18326fc6b7.png" group-title="Music",ZENEBUTIK
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyxmK-cUpP0Ai_kuPhqzT9p
+#EXTINF:-1 xui-id="70274" tvg-id="" tvg-name="OXYGENMUSIC ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Z1JvYuqCIWLfkSBm1cBeBqXsVivQy-BByjFZbHKwPogHSNL-_U1aFrrrBK4wUuDs85T2-gPYcorBj2bNy3W_hacR3nz2eQsyrTT7wmaQsdRpX_iIKjiDPqaOgkElZR5IMpjkSdbCs1ZruFd5nKTU6eoVgF4eiai-jP-SXnetQGcQqQWzLM9IjfHI4e5jNJs4.png" group-title="Music",OXYGENMUSIC ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78FIuuYQSuYencnEtdV0lMa
+#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="⭐ Science ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Science",⭐ Science ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzt6B71HSZJtiM1_PBmZhof
+#EXTINF:-1 timeshift="10" xui-id="157" tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356" group-title="Science",Animal Planet ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyHukDJyz10-5T-w9zfHbhr
+#EXTINF:-1 xui-id="158" tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet" tvg-logo="http://live.huntv.net:8080/images/ef26837f0fd1b2899f3284f61aa82137.png" group-title="Science",Animal Planet
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxNWrpToeRneAktfkKbqbNP
+#EXTINF:-1 timeshift="10" xui-id="159" tvg-id="BBCEarth.hu" tvg-name="BBC EARTH ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/407fe735d21acf572555996eb4cab298.png" group-title="Science",BBC EARTH ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElw4RXcl9V3AfLuJxRn2-q0E
+#EXTINF:-1 xui-id="8731" tvg-id="BBCEarth.hu" tvg-name="BBC EARTH" tvg-logo="http://live.huntv.net:8080/images/407fe735d21acf572555996eb4cab298.png" group-title="Science",BBC EARTH
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawSVtYab0tCclRs0mjTWT3Sk
+#EXTINF:-1 xui-id="52090" tvg-id="LoveNature.hu" tvg-name="LOVE NATURE ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ozTBjcD0wwx4vBgLGHNJ5wTfvh31NnLAw12be2hHKGcX9G-cTwPgjnlmnc0ijALWKwjrYRoGDDz5jlMLipQdoNr8HUXiToazHa5U2zRnD5E.png" group-title="Science",LOVE NATURE ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaNQPZy6Sz6aQT2G-nweKFu
+#EXTINF:-1 timeshift="10" xui-id="161" tvg-id="spektrum.hu" tvg-name="SPEKTRUM ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d4725d6ec86ffb1abbeedff7adaa0f7e.png" group-title="Science",SPEKTRUM ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz-V-KA4Q0THffJw44H6OQL
+#EXTINF:-1 timeshift="10" xui-id="160" tvg-id="spektrum.hu" tvg-name="Spektrum" tvg-logo="http://live.huntv.net:8080/images/958b510a769fe9ad35763cf0a6cf6e25.png" group-title="Science",Spektrum
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxHgk8UD6zx45ydY4r5tq9u
+#EXTINF:-1 timeshift="10" xui-id="69157" tvg-id="SpektrumHome.hu" tvg-name="SPEKTRUM HOME ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/e124bef93fffe709197b023abe135819.png" group-title="Science",SPEKTRUM HOME ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCWe6H9JdQN4ia0mJuY_erh
+#EXTINF:-1 timeshift="10" xui-id="195" tvg-id="SpektrumHome.hu" tvg-name="SPEKTRUM HOME" tvg-logo="http://live.huntv.net:8080/images/e124bef93fffe709197b023abe135819.png" group-title="Science",SPEKTRUM HOME
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx2ole0x48ZHfKHk5flYAsJ
+#EXTINF:-1 timeshift="10" xui-id="164" tvg-id="NatGeo.hu" tvg-name="Nat Geo ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7a175ce7b9ab1cce8857115537511112.png" group-title="Science",Nat Geo ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxd_W_U9Ypd8s8R6SSbTrxv
+#EXTINF:-1 timeshift="10" xui-id="163" tvg-id="NatGeo.hu" tvg-name="Nat Geo" tvg-logo="http://live.huntv.net:8080/images/b2031a33dbf90835c6920c78a1384fdd.png" group-title="Science",Nat Geo
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyZHybuP4XGC90aHbBx8U0T
+#EXTINF:-1 timeshift="10" xui-id="166" tvg-id="NatGeoWild.hu" tvg-name="Nat Geo Wild ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/74bdbf3285c1aa3c9be7dc622ea7dd00.png" group-title="Science",Nat Geo Wild ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyMMGYM7v1mG3ivmz8tDtS0
+#EXTINF:-1 xui-id="165" tvg-id="NatGeoWild.hu" tvg-name="Nat Geo Wild" tvg-logo="http://live.huntv.net:8080/images/ade60d6c829e44e8c23470f1ae4ffd32.png" group-title="Science",Nat Geo Wild
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElx8FkUsO4maOTcxyLyDqnQP
+#EXTINF:-1 timeshift="10" xui-id="184" tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/72c1394ff7c8dcda04d5531b414a97a4.png" group-title="Science",Discovery Channel ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzpCHxcR9xHsXA7I2GUQNT-
+#EXTINF:-1 xui-id="183" tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" tvg-logo="http://live.huntv.net:8080/images/0ebe453a371e4c2e7f0f5315c9aad279.png" group-title="Science",Discovery Channel
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzgWGXY9VXiP3aXvygeApad
+#EXTINF:-1 timeshift="10" xui-id="191" tvg-id="HistoryChannel.hu" tvg-name="History ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/8a7797529f61d003cb7ac7944c099014.png" group-title="Science",History ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxdomRDFIyFC2TMo-H4xHu8
+#EXTINF:-1 xui-id="190" tvg-id="HistoryChannel.hu" tvg-name="HISTORY" tvg-logo="http://live.huntv.net:8080/images/f3947088f73ae4b62184c6124604644d.png" group-title="Science",HISTORY
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxADYlKjQuowWooko_8mBLc
+#EXTINF:-1 xui-id="173" tvg-id="ViasatNature.hu" tvg-name="VIASAT Nature ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/8644e538a1c92627ce4a67f028a020d0.png" group-title="Science",VIASAT Nature ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwywBCHuw6aL_qdidEdKSAw
+#EXTINF:-1 xui-id="172" tvg-id="ViasatNature.hu" tvg-name="Viasat Nature" tvg-logo="http://live.huntv.net:8080/images/8644e538a1c92627ce4a67f028a020d0.png" group-title="Science",Viasat Nature
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxSO15e79amBEKnifsyJzBJ
+#EXTINF:-1 timeshift="10" xui-id="175" tvg-id="ViasatHistory.hu" tvg-name="VIASAT History ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0a60ad1ac82e05a7ae0997e71d87370e.png" group-title="Science",VIASAT History ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxx5gsymygDZbxcFgS542wF
+#EXTINF:-1 xui-id="174" tvg-id="ViasatHistory.hu" tvg-name="Viasat History" tvg-logo="http://live.huntv.net:8080/images/0a60ad1ac82e05a7ae0997e71d87370e.png" group-title="Science",Viasat History
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxuJ-2EczXhe1-axP6AUwVx
+#EXTINF:-1 timeshift="10" xui-id="177" tvg-id="ViasatExplore.hu" tvg-name="Viasat Explore ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a7be34012b991553f532cf2b5e25fc62.png" group-title="Science",Viasat Explore ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwPtSkFccHWUzH9BhB6qbp5
+#EXTINF:-1 xui-id="176" tvg-id="ViasatExplore.hu" tvg-name="Viasat Explore" tvg-logo="http://live.huntv.net:8080/images/a7be34012b991553f532cf2b5e25fc62.png" group-title="Science",Viasat Explore
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElxPpaCuabPOSZQsLU4f_E5n
+#EXTINF:-1 xui-id="189" tvg-id="FishingHunting.hu" tvg-name="Fishing and Hunting ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d45a0953012ffb6f3f85f2240e38ef47.png" group-title="Science",Fishing and Hunting ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwjdcw1_8z5ITqoNyD6ndkH
+#EXTINF:-1 xui-id="188" tvg-id="FishingHunting.hu" tvg-name="Fishing and Hunting" tvg-logo="http://live.huntv.net:8080/images/d45a0953012ffb6f3f85f2240e38ef47.png" group-title="Science",Fishing and Hunting
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyWMmNR5sYFNEuq62uYvIi9
+#EXTINF:-1 timeshift="10" xui-id="179" tvg-id="TravelChannel.hu" tvg-name="Travel Channel ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/51a2d1c44a7923e097b54467a9aa9b1c.png" group-title="Science",Travel Channel ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzC9nKRnsQXZXFwS9BBheRz
+#EXTINF:-1 xui-id="178" tvg-id="TravelChannel.hu" tvg-name="Travel Channel" tvg-logo="http://live.huntv.net:8080/images/2046740ac8549b89c7d7590cad43e589.png" group-title="Science",Travel Channel
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz4jXmbT4DSCROBJipcufHF
+#EXTINF:-1 xui-id="180" tvg-id="HGTV.hu" tvg-name="HGTV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Xst7J6CUF_3P-cJfikEnCBi0fU6gwBH7I81jOEfxc5J7ujbD-piw2appXq2Vbc2ILorrPXL63nArlwSELtghmw.png" group-title="Science",HGTV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyNkUMCeWGWmpBtIqrNkcia
+#EXTINF:-1 xui-id="52004" tvg-id="HGTV.hu" tvg-name="HGTV" tvg-logo="http://live.huntv.net:8080/images/Xst7J6CUF_3P-cJfikEnCBi0fU6gwBH7I81jOEfxc5J7ujbD-piw2appXq2Vbc2ILorrPXL63nArlwSELtghmw.png" group-title="Science",HGTV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYtxxg8IGUJ5ydpmNTrkacJ
+#EXTINF:-1 timeshift="10" xui-id="8729" tvg-id="OzoneNetwork.hu" tvg-name="OZONE TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/0db8fc3b7fad8a3f9e45bc1b7f950cb8.png" group-title="Science",OZONE TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawQ_tAcAVFBbslO0XO08-6X2
+#EXTINF:-1 xui-id="196" tvg-id="id.hu" tvg-name="ID XTRA ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ddc7d6829292b4440e6a6ee44db1bbfa.png" group-title="Science",ID XTRA ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwXbcpqP14SIEcvuoLE3t6c
+#EXTINF:-1 xui-id="197" tvg-id="InvestigationDiscovery.hu" tvg-name="ID Xtra" tvg-logo="http://live.huntv.net:8080/images/883ed823cee0c8f98bca2bed66ab17d2.jpg" group-title="Science",ID Xtra
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyOUtTxyS-Fr043gkRPzT63
+#EXTINF:-1 timeshift="10" xui-id="201" tvg-id="lifetv.hu" tvg-name="Life TV ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a25b6f26a2622c6210c0fe705f8746a9.png" group-title="Science",Life TV ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInHutH07czyv2BffA315Isl
+#EXTINF:-1 xui-id="200" tvg-id="lifetv.hu" tvg-name="Life TV" tvg-logo="http://live.huntv.net:8080/images/a25b6f26a2622c6210c0fe705f8746a9.png" group-title="Science",Life TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInxF3Z2vP7zd66IZ2RX8ZtH
+#EXTINF:-1 timeshift="10" xui-id="202" tvg-id="TLC.hu" tvg-name="TLC ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/3add085cc47683949442da3cab3bb937.png" group-title="Science",TLC ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmImDAbR73PMJDM9yPuInPyWt
+#EXTINF:-1 xui-id="65997" tvg-id="TLC.hu" tvg-name="TLC" tvg-logo="http://live.huntv.net:8080/images/3add085cc47683949442da3cab3bb937.png" group-title="Science",TLC
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXCrU-UhAhXILbLWiJYjUHC2
+#EXTINF:-1 xui-id="27817" tvg-id="" tvg-name="⭐ Prémium ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Premium",⭐ Prémium ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmIlO4d-Bvq3Kg7-sNfpA7Fhk
+#EXTINF:-1 xui-id="72879" tvg-id="67" tvg-name="FAMILY TIME HD" tvg-logo="http://live.huntv.net:8080/images/412aea69ca68a0a9b9438e0feb2d9398.png" group-title="Premium",FAMILY TIME HD
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-jewQ6i8HZDMokCCJTA4oU
+#EXTINF:-1 xui-id="52180" tvg-id="40" tvg-name="MARVEL & DC ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Icjp0DdV6-crPiTZngYACncs8SQXRojIYF2qtpxAn2alVmlUMOPx-OXeJxuAPg5nmM9bJdyOJbZTJ8DHl0ypDFjeUDc0Bv4AU8NZCIy8QeN5K9ulO1jBlGEpTuEfQ-I-.png" group-title="Premium",MARVEL & DC ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZn9NKC4r5jtMJxudV8bemf
+#EXTINF:-1 xui-id="61825" tvg-id="39" tvg-name="MARVEL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurpilwJ1nWqSuZrVhdP-T9rDVUye3hlOjAud-hYm43So8j.jpg" group-title="Premium",MARVEL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXDF3U9HYFcC1Jy_lLD6jo4-
+#EXTINF:-1 xui-id="61826" tvg-id="18" tvg-name="DC UNIVERSE ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurpviBlmtkjlsp8kmtxXvQZwc.jpg" group-title="Premium",DC UNIVERSE ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXATy-lRX3rFehm_jqI8Judj
+#EXTINF:-1 xui-id="52181" tvg-id="25" tvg-name="HBO GO ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFAzKG5rWfDnsHg52lVcT2tj4mhzUU528o4SKBMfgyP5iXhvOgZgO2bSpRRmqgSEfmmeG9-JR1EKf23mx8HGJZaI.png" group-title="Premium",HBO GO ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYlcdQOs29G8Pd1FcnBXNAX
+#EXTINF:-1 xui-id="52182" tvg-id="59" tvg-name="HBO MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/AaeyPFOAq7Lc7nXX0N8f77BpdGxd5cDUGaFTnMUa8zsUKC_SkzabHUgg5MLHEattW02e6VIZCeSDWF9DJ-gN3xkbh3xJy1pg6jUr9b1smP8.png" group-title="Premium",HBO MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iav_Jz1vVHswLSgp8_4rHDl
+#EXTINF:-1 xui-id="52183" tvg-id="35" tvg-name="HBO ZONE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png?20160304233710" group-title="Premium",HBO ZONE ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZJN8S1w-2ioRw1gWPqQfk7
+#EXTINF:-1 xui-id="52184" tvg-id="31" tvg-name="HBO FAMILY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/X-kxCu_YSXGCJK_smDEzZTcGMzTiithCwzQp3aum_YoM5dn0J1kIO4JGoJAWg6aT4j3EsVlR9Ct29iwTgp8KYTuDeJL1h6tSGO1nUGM5MH8.png" group-title="Premium",HBO FAMILY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZuK8KiW3b1b-IvtM5a_YAn
+#EXTINF:-1 xui-id="52185" tvg-id="33" tvg-name="HBO PLUS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png?20101220233409" group-title="Premium",HBO PLUS ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaY4mrXRE1pDCwlaZ4bI8kB
+#EXTINF:-1 xui-id="52186" tvg-id="30" tvg-name="HBO COMEDY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Xst7J6CUF_3P-cJfikEnCLzcNGv3w9g1JC5B3kr_G7CLozQqD0LsKELOZoAuoiudyAwWj_fTeuV1bLozjC5xyn6H4Euu0LZLN2gXiic3ATU.png" group-title="Premium",HBO COMEDY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibievZR4Irygd0t6qjbw34E
+#EXTINF:-1 xui-id="54347" tvg-id="34" tvg-name="HBO SIGNATURE ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/cd6055d89726db58b8283e800a502697.png" group-title="Premium",HBO SIGNATURE ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZt30G8a2hT9E3Npjidi9nF
+#EXTINF:-1 xui-id="58265" tvg-id="32" tvg-name="HBO KIDS ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUuQKsWAw6OwmiACtbmpIIHdRBKjB8VReG8fYQzzJqeDvh8ulyzR59abdyTm7h4M0A.png" group-title="Premium",HBO KIDS ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYS9qWvTGIBGymAtYT0BPbY
+#EXTINF:-1 xui-id="52188" tvg-id="24" tvg-name="FILM+ 3 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/MzsiXkORIkFrbVMthjcQ3dJntSTGOJnbn9iW1m_Xo4QUZtwgFAyKh0h93T353VGL43fXEOF2e7snAIhKbc8WIRODzrgzlxPRJ0G07kKUhUU5BTXLLMTM1EXP4AOo2s3OWz6B4-Clt6Suwzmk-m6-0I9N8rZ6Rz46TA2DJpmiwzE.png" group-title="Premium",FILM+ 3 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYQRTAvWzWL2Mv3aPWvjtqS
+#EXTINF:-1 xui-id="52189" tvg-id="21" tvg-name="FILM+ 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/MzsiXkORIkFrbVMthjcQ3dJntSTGOJnbn9iW1m_Xo4QUZtwgFAyKh0h93T353VGLqu6abFci7a9vuMTL6pPqnHw5MJjib_9YB7FV9GLzEzRH2kx5Jv6h6sSSx9tVxLjQlCYjXplMu1UhI6q83dNWirWQm8IEcTNwjFUyrZaGeU940N-_fZIBJRh44HGAiKkz.png" group-title="Premium",FILM+ 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaQoRCuQD2-CS_nHQ4pr-94
+#EXTINF:-1 xui-id="52190" tvg-id="22" tvg-name="FILM+ 5 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/MzsiXkORIkFrbVMthjcQ3dJntSTGOJnbn9iW1m_Xo4QUZtwgFAyKh0h93T353VGL1AYIpPy3EOzlnGyzKFzVz6PXQpLhDcjHz9vZOc9gk0BTXAtfcDKIWkLWw97V_nJmcmuC0LqRD3M0NcQ62hbCytn2hz5pMVYhlas384ysE5vpg8W58NmCddB7Qrb8AreKR7j3it7I7a62fwbXkUs8Ww.png" group-title="Premium",FILM+ 5 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZ3Nb_Ftq5GfE3qOombi-47
+#EXTINF:-1 xui-id="52191" tvg-id="20" tvg-name="DISNEY+ ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/AaeyPFOAq7Lc7nXX0N8f77BpdGxd5cDUGaFTnMUa8zs2HmSg77jApxgmtJbMnY1AEPt9B0y6t0EaS2EVTY_TEpRT-XFOYpsyifSAbIOYBz8.png" group-title="Premium",DISNEY+ ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibDd8rjnKNBEE3OGITI_pXZ
+#EXTINF:-1 xui-id="52192" tvg-id="19" tvg-name="DISNEY CINEMA ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/ociVHSgMCSvGhmJaKXBX-B0CeBa74Je10kqfloa3YFDC04pTqYZqONSt4u70AEmzQhVNAn35VPetmpC7V242_1n-T4z7z80CxeR-jjf4Ly8.png" group-title="Premium",DISNEY CINEMA ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaQR-3kcIahDoLuV1R3frDO
+#EXTINF:-1 xui-id="52193" tvg-id="46" tvg-name="NETFLIX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/a_eb9ZinnT2OD-NbGM7mnITE3JIp1dpTUewOfJArXKUF_8DEH9jBK-5GsdYkXqF0Fp5u5PWI4TfK0BC8en16nJLCabb30U3vQ7pYZFn69NY.png" group-title="Premium",NETFLIX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibjrRh8ocwKoYxBKY9idAsV
+#EXTINF:-1 xui-id="57965" tvg-id="47" tvg-name="NETFLIX 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafU20scBAwofyfROz435hN_OuXznzJqmDKNOuxckT42iBU4sefxu3U0Ac4YLA-m4ipi.png" group-title="Premium",NETFLIX 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibY7t1LjQDUxcaW2CypAOUd
+#EXTINF:-1 xui-id="58667" tvg-id="48" tvg-name="NETFLIX 3 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafU20scBAwofyfROz435hN_OuXznzJqmDKNOuxckT42iBU4sefxu3U0Ac4YLA-m4ipi.png" group-title="Premium",NETFLIX 3 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaAewuu4lQHJL-VFKCSegR3
+#EXTINF:-1 xui-id="52194" tvg-id="51" tvg-name="STAR MOVIE CHANNEL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/pupbeaFSObgP2OXKKc6LnOZpchiwg3nUVx23adyyLkTyBElNvQj811GIeCrEL6iT.png" group-title="Premium",STAR MOVIE CHANNEL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYb0D2BTHV_psw63_2w0uac
+#EXTINF:-1 xui-id="52195" tvg-id="38" tvg-name="MAGIC CHANNEL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KFautn6C2Toirjgqo0D30jqot5cgrcR457OSnz7Tx7R7WNG7_YBDzG5xX_I4hBjJIIBi8zJLpJop3vV9DmNxhkKOr4g-1soDc_rFo9-mWWc.png" group-title="Premium",MAGIC CHANNEL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibAzLiFS7DBgJO19-lqEntz
+#EXTINF:-1 xui-id="52196" tvg-id="50" tvg-name="SCI-FI CHANNEL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/jmke_5An7cqRkPudT-r9XOyVBeAcLmkyozVWB_xCyMvzbkS7X5vaCszxVKZP1_uaA0rBv99jgVWC6T1CEjYczJnrvRHCvNQPC_gpNm1SEx0.png" group-title="Premium",SCI-FI CHANNEL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ialHGO0ILG0FLYn913ANFqc
+#EXTINF:-1 xui-id="52197" tvg-id="17" tvg-name="AXN MOVIES ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/fu9cQscyo2cVRbqusLUIGg62tbYpq-VwaSJxmedoQjis6MruFR8EhfMyGx4vZBdW.png" group-title="Premium",AXN MOVIES ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaETqmH_FtaUg2n8C6-N030
+#EXTINF:-1 xui-id="52198" tvg-id="41" tvg-name="METRO GOLDWYN MAYER ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/Q3bMT59eFyZqZtH2u3hgdTyAeC-dTvtCzyZ40RG-by0kz3Hka4RCSwKZQnGmJRFiMVsGy-HjT6ChnQYK88rNx7WZ4pUzwIPZ_KeHhS8OqN4YZwGVJcDisz4HlzF62hpu.png" group-title="Premium",METRO GOLDWYN MAYER ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZ8gTE5BmXLeyA-mKgLHuhk
+#EXTINF:-1 xui-id="52199" tvg-id="54" tvg-name="WESTERN CHANNEL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/BozKPv4S0ee6pcFpuNe2CXFEWF3Y_wsk7hE8qOomTccnH3iyo9SKi_xm1KS8dSAbDH_FXo9TzgatG4LR2_4tGkK2vqWdgzAbiB2jIE8kUjIavEiupKxSjMlwcV4MgeDsGWLm6XEqpI4sp0ebxhWPANYkkJiO-5QgkJGieLZoOLo.png" group-title="Premium",WESTERN CHANNEL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ib0VUAwGkCtNKaqWO3fUaOD
+#EXTINF:-1 xui-id="52200" tvg-id="16" tvg-name="RETRO SCI-FI ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7fwcom9IajTc-6iFRnFbOm0RZpCnMZ9Jj6tcv_rrG4no1jSeH82ystHeSIGqHVuMrgWQFORaWUmg_NrnN7vIaxzo3D7ftAboDCuI_JtWXPWcEf77YAXQk9Fr52Y5H6GO2hp27pebmu0amsoN0PcN5umRmwkdulB4rx8LG4NpYw4.png" group-title="Premium",RETRO SCI-FI ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibkP0L-eL4hflJBkS04JtmQ
+#EXTINF:-1 xui-id="52201" tvg-id="14" tvg-name="RETRO FAMILY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7fwcom9IajTc-6iFRnFbOm0RZpCnMZ9Jj6tcv_rrG4no1jSeH82ystHeSIGqHVuMrgWQFORaWUmg_NrnN7vIaxzo3D7ftAboDCuI_JtWXPWcEf77YAXQk9Fr52Y5H6GO2hp27pebmu0amsoN0PcN5umRmwkdulB4rx8LG4NpYw4.png" group-title="Premium",RETRO FAMILY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iadGFKXRQZzsZfnXSnAJ1cB
+#EXTINF:-1 xui-id="52202" tvg-id="15" tvg-name="RETRO COMEDY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7fwcom9IajTc-6iFRnFbOm0RZpCnMZ9Jj6tcv_rrG4no1jSeH82ystHeSIGqHVuMrgWQFORaWUmg_NrnN7vIaxzo3D7ftAboDCuI_JtWXPWcEf77YAXQk9Fr52Y5H6GO2hp27pebmu0amsoN0PcN5umRmwkdulB4rx8LG4NpYw4.png" group-title="Premium",RETRO COMEDY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibX1C0Qn3DBPV-S5U04f3Th
+#EXTINF:-1 xui-id="52203" tvg-id="12" tvg-name="RETRO THRILLER ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7fwcom9IajTc-6iFRnFbOm0RZpCnMZ9Jj6tcv_rrG4no1jSeH82ystHeSIGqHVuMrgWQFORaWUmg_NrnN7vIaxzo3D7ftAboDCuI_JtWXPWcEf77YAXQk9Fr52Y5H6GO2hp27pebmu0amsoN0PcN5umRmwkdulB4rx8LG4NpYw4.png" group-title="Premium",RETRO THRILLER ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibZ21GpFsGWjAZzvKB4Jd-X
+#EXTINF:-1 xui-id="52204" tvg-id="13" tvg-name="RETRO HORROR ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/7fwcom9IajTc-6iFRnFbOm0RZpCnMZ9Jj6tcv_rrG4no1jSeH82ystHeSIGqHVuMrgWQFORaWUmg_NrnN7vIaxzo3D7ftAboDCuI_JtWXPWcEf77YAXQk9Fr52Y5H6GO2hp27pebmu0amsoN0PcN5umRmwkdulB4rx8LG4NpYw4.png" group-title="Premium",RETRO HORROR ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibITZLWTCV1gWSKLY6kSJlU
+#EXTINF:-1 xui-id="53154" tvg-id="42" tvg-name="MOVIES 1 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLoZ1XV0To7QxPWbEg4StylHgiDQgcNYc0Rp3u8wJ8GSk.png" group-title="Premium",MOVIES 1 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZ1sBng-0fcUCLVKL45wWML
+#EXTINF:-1 xui-id="53155" tvg-id="43" tvg-name="MOVIES 2 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLoZ1XV0To7QxPWbEg4StylEXtyr1Dazx-rqb41U1wxFT.png" group-title="Premium",MOVIES 2 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYJRAKDoO2H1XuEKpGL5Y7Q
+#EXTINF:-1 xui-id="53156" tvg-id="44" tvg-name="MOVIES 3 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLoZ1XV0To7QxPWbEg4StylEj1ryhcXujL4tJUZiK9Wz5.png" group-title="Premium",MOVIES 3 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibM5nZj3Wr033CV-uLbQQYW
+#EXTINF:-1 xui-id="53530" tvg-id="45" tvg-name="MOVIES 4 ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLoZ1XV0To7QxPWbEg4StylHb-ZfkWGQ6HrZP_6GTX1MZ.png" group-title="Premium",MOVIES 4 ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ianVfHjSS2K2yaW3FltIYj4
+#EXTINF:-1 xui-id="52433" tvg-id="52" tvg-name="BEST BUD SPENCER & TERENCE HILL ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/3d671ada2f8ed1e9cf3823e649bdcf94.jpg" group-title="Premium",BEST BUD SPENCER & TERENCE HILL ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iY2CXonKt124sHuM1ntakgm
+#EXTINF:-1 xui-id="52432" tvg-id="53" tvg-name="BEST JEAN CLAUDE VAN DAMME ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/57683e8ac3b8255e4cbd2f4884c138cd.jpg" group-title="Premium",BEST JEAN CLAUDE VAN DAMME ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYusf6pRGyav1orCHLgTiKy
+#EXTINF:-1 xui-id="52210" tvg-id="9" tvg-name="BEST JACKIE CHAN ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/28df5cab8847b92476da340922238dd1.png" group-title="Premium",BEST JACKIE CHAN ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iaI5pv7ugLhuuoxK0Op6JmX
+#EXTINF:-1 xui-id="52209" tvg-id="10" tvg-name="BEST DENZEL WASHINGTON ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/188a67ff683417e46dc9db41c0d7a6c8.jpg" group-title="Premium",BEST DENZEL WASHINGTON ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iavz1b39soHgtPGA-uDkMn9
+#EXTINF:-1 xui-id="52208" tvg-id="11" tvg-name="BEST ADAM SANDLER ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/9f6759cd907d1fc76d8ae02ae2ead0e3.jpg" group-title="Premium",BEST ADAM SANDLER ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ibTeK-6l8WnqONPPfeixbqf
+#EXTINF:-1 xui-id="52207" tvg-id="6" tvg-name="BEST HORROR ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/77ecda96aa7a576bccc15dc7632df151.png" group-title="Premium",BEST HORROR ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYq29Grs-bbiN_lrSLYDo5g
+#EXTINF:-1 xui-id="52206" tvg-id="4" tvg-name="BEST THRILLER ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/d6dee3f50a7922bdaa10643d17cbd472.png" group-title="Premium",BEST THRILLER ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iZfTrgBtyllQEG4EJpcYL8l
+#EXTINF:-1 xui-id="52205" tvg-id="8" tvg-name="BEST COMEDY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/8be92bc35d0d6c04e523f13344121c76.png" group-title="Premium",BEST COMEDY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-ianYFeBY3oFQwVzqoXPN23_
+#EXTINF:-1 xui-id="57835" tvg-id="7" tvg-name="BEST FAMILY ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/520f876533dfdd6d717018f49eb23eeb.jpg" group-title="Premium",BEST FAMILY ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568jdc6YZD2KdUSrYRuBb8-iYwk87KXRXnmz_AThJmaatO
+#EXTINF:-1 xui-id="61827" tvg-id="60" tvg-name="5 STAR MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurpmSqksqHvoHkToo9pjsheTl9giktdJVsCrbeBuxbYSaT.jpg" group-title="Premium",5 STAR MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXA09JMddWUOedw0DxJhvQ3l
+#EXTINF:-1 xui-id="61828" tvg-id="62" tvg-name="MORE MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurpikV8-nwkSwIRXNnHJ6c-Wa_z3t7OMaL4n8w5hgxUMxo.jpg" group-title="Premium",MORE MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXAsEmzETN8NmMmXOHaWeu08
+#EXTINF:-1 xui-id="61829" tvg-id="63" tvg-name="MOVIE MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurpg-B4Yi9SWc9inS2kVYWCpvLJJaAv15VAAaLDrTgKh7j.jpg" group-title="Premium",MOVIE MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXB18dOjQExZ38NLQeyMuUEm
+#EXTINF:-1 xui-id="61830" tvg-id="61" tvg-name="ACTION MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurplySNbXhtcwxIsvFKGNy0HHnOOnmHqwhh9DrStEKj2ee.jpg" group-title="Premium",ACTION MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXBcXmNdrCJvjrlLxcpS0mYJ
+#EXTINF:-1 xui-id="61831" tvg-id="65" tvg-name="THRILLER MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurprnrCzxQQdblho18U-FH4PbFR3x6pADe5_Rj5muSrTus.jpg" group-title="Premium",THRILLER MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXDrHjtGd-uAlbVQSwI86eBP
+#EXTINF:-1 xui-id="61832" tvg-id="64" tvg-name="OUTER MAX ᴴᴰ" tvg-logo="http://live.huntv.net:8080/images/bNOP1hPI8eaFJ1DV_bha-hTEh4gGhl3u1Hxxx9IFQmVDiEQpOOl22xxe7oIQoafUbzuZNoSkaMWduxMdsgurplruSSYVNtAZuQiI1Ts-u7lVRqpxgcsWbdMsiplcUV19.jpg" group-title="Premium",OUTER MAX ᴴᴰ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXBCIm-stpkssk2h42_Iz5q0
+#EXTINF:-1 xui-id="72882" tvg-id="72882" tvg-name="24/7 A mi kis falunk" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xxxFyVqe4ANZh01rp-eHQTnNx37qOAnYL-CZi8TSXzT_Q.png" group-title="24/7 Films",24/7 A mi kis falunk
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-BC8AkjrkcSpwynAftlZPZ
+#EXTINF:-1 xui-id="70268" tvg-id="70268" tvg-name="24/7 A Grace klinika" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xx3BTA0t8hG3cHHKMWXiS_1hhAdpwIRk8ZFkoWInhS1mQ.jpg" group-title="24/7 Films",24/7 A Grace klinika
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78kYz80kdyPHJyZD8FyndpV
+#EXTINF:-1 xui-id="34211" tvg-id="34211" tvg-name="24/7 Agymenők" tvg-logo="http://live.huntv.net:8080/images/DgVrKNXSpw5cFq4elrQ2bbGyE591JKasMcHgabuOcYh3nj_9TqLJ1YMAIoMywBQR9f4XkinIvhv0rpyAwENr_ZxrnyMmJYeSooA2TFzlovOcrP-Z-FJUGQjeADTr03rs7leKwO82Ievt5vyxNd53KA.png" group-title="24/7 Films",24/7 Agymenők
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZc7ShL3sqPJTCDL_Cir_WsJ
+#EXTINF:-1 xui-id="70375" tvg-id="70375" tvg-name="24/7 Apatigris" tvg-logo="http://live.huntv.net:8080/images/TlWaWxntgmcKKmc6W-GtQiurZSdzDk-ykyr97vp1zbADue0ytYtRtimRL_i8vbVirwGjniW45lwTRifXZwEsLw.jpg" group-title="24/7 Films",24/7 Apatigris
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-Bg07PnXEUy2lu1QKxmOSs
+#EXTINF:-1 xui-id="70263" tvg-id="70263" tvg-name="24/7 Columbo" tvg-logo="http://live.huntv.net:8080/images/wVo6LEINWqpwT7_0NiTmsPJcfzEqaPNKNFAhCqb0ty5H_38NL4hPGBs0Na19j9tBfVE3eRMtN-L2bB6l6dvmzaukE5ETb8HMIBId_lc5Vf-UScJ_9jqLWULd5ftFOaUyAgXv8n2BXSYoSuiboO-ryw.jpg" group-title="24/7 Films",24/7 Columbo
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq79Oq_3rd1TfnFV0nY_rQitN
+#EXTINF:-1 xui-id="70372" tvg-id="70372" tvg-name="24/7 Csillagkapu - Atlantisz" tvg-logo="http://live.huntv.net:8080/images/Icjp0DdV6-crPiTZngYACpJ2TDiBbbUE-6jDvW8iqqJ3WxYAkbauJJr37ot_CBdB84clAcUxPeutmfNaWneFJM2RmGduZx1Rzo9pn1OLgyzzgtUY-KwXDkD77fqenEdo.png" group-title="24/7 Films",24/7 Csillagkapu - Atlantisz
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-ojnyD1U3r_rQNlwmBWKZG
+#EXTINF:-1 xui-id="70267" tvg-id="70267" tvg-name="24/7 Csillagkapu Univerzum" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xw9HkVVjrARrjWJ1han7fvO.png" group-title="24/7 Films",24/7 Csillagkapu Univerzum
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78qbwiaqbd6sCxBmKVtyvVt
+#EXTINF:-1 xui-id="70414" tvg-id="70414" tvg-name="24/7 Dr. Csont" tvg-logo="http://live.huntv.net:8080/images/39c3b3caa4ac7753fda72c017fd98556.jpg" group-title="24/7 Films",24/7 Dr. Csont
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_U7_06KDyT2Ne1Yef1N9Va
+#EXTINF:-1 xui-id="63725" tvg-id="63725" tvg-name="24/7 Family Guy" tvg-logo="http://live.huntv.net:8080/images/a7KCvE4nxkvqWeDloQNwIl6EiSNKfgER4ztxq7-gXi54jPDdJ-WQ2jTmV_YS2AHBlP69SgtvN5ZeWVTE1NRBuvQQHrQTtSZ4gxFYD4INurs.png" group-title="24/7 Films",24/7 Family Guy
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568gZ7xK2EB2r3ZkkiCexWEXAKEgsOt8GCDx4_byNJ_XLp
+#EXTINF:-1 xui-id="70377" tvg-id="70377" tvg-name="24/7 Frédi és Béni, avagy a két kőkorszaki szaki" tvg-logo="http://live.huntv.net:8080/images/98b850b356d4596fb198445a9c7a2e3b.jpeg" group-title="24/7 Films",24/7 Frédi és Béni, avagy a két kőkorszaki szaki
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-5SBuxp0d9EulolrNjggVC
+#EXTINF:-1 xui-id="70266" tvg-id="70266" tvg-name="24/7 Jóbarátok" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xwlS9bnGpYRQwvTQ-17vRv0.png" group-title="24/7 Films",24/7 Jóbarátok
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-PY3l9JeX_C-IIcXxa3_F-
+#EXTINF:-1 xui-id="70376" tvg-id="70376" tvg-name="24/7 Magyar népmesék" tvg-logo="http://live.huntv.net:8080/images/93b383b033a6ee69407ed1e6108e1240.jpg" group-title="24/7 Films",24/7 Magyar népmesék
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7_zTq7xDlMtEHTWM-30_ZwO
+#EXTINF:-1 xui-id="70265" tvg-id="70265" tvg-name="24/7 Szex és New York" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xzkkxzKcxfVojjrjLK91X4aMjkVPlgdHvvD9MG2spvW6Q.png" group-title="24/7 Films",24/7 Szex és New York
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq7-aaTusVZZHuVTY1BOtq3f3
+#EXTINF:-1 xui-id="70264" tvg-id="70264" tvg-name="24/7 X-akták" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xyv7CogaJ6AENNztNHAHARw.png" group-title="24/7 Films",24/7 X-akták
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78nfMaitfJZjy46xFXLcsBk
+#EXTINF:-1 xui-id="47007" tvg-id="47007" tvg-name="24/7 South Park" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLs6BE1DFa5yx2T6r6Ci_0xyy4V2LHXHg4uTQ3ZacsWVV.png" group-title="24/7 Films",24/7 South Park
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxeqImcKhExjoBO-Z3hEPoo
+#EXTINF:-1 xui-id="37498" tvg-id="37498" tvg-name="24/7 Szulejmán" tvg-logo="http://live.huntv.net:8080/images/n-lbGGBIyUQXaDL47iPaN2iEIzf195WGTLmRB873mgA42om-V9ojRHwatUZjusFlbAZOHmeOjTJ7GOnFlMaYzHUq4JueFiRoUth6tyfSICBWIdybZ1Jlo07ZoY-YiaRV.png" group-title="24/7 Films",24/7 Szulejmán
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZfLGYTeSyJM83MYJ8Z-tZhZ
+#EXTINF:-1 xui-id="37497" tvg-id="37497" tvg-name="24/7 Showder Klub" tvg-logo="http://live.huntv.net:8080/images/Z-rB_muqrG6Rs-zIXHD4s7RkU_z-EfXUT4EwAtNuFc_3m6jRiUvo-bLY9-JHPNKVILun14p4fUEa8jTpjV-P88uMH7AJXQFDOSbIubrgeSVzbyqsLa94o4-kzMomOilnc7p_g9_dKR-AiZLWDBduvu15PjXuE-0Lr6IaGhvOxPHnan7Hz8g5c-fhOrUTQ_qM.png" group-title="24/7 Films",24/7 Showder Klub
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZd9ORsULhh7SyrZtdcR-5yE
+#EXTINF:-1 xui-id="37495" tvg-id="37495" tvg-name="24/7 Star Trek" tvg-logo="http://live.huntv.net:8080/images/Y5XxUru_h0ZkmLO-yZVYfL5D7jh5ctCi48q-86W4EAdjl2TTFFqD_ywkHcx6nul_WxP_e0IUIls7xUPIihk5rF__rUnP0JCO8W2TqJtuLKvbiQo1dNk3x5h4IsKjvQxnKZRF9GjFwTtoO375Mm3LPQ.png" group-title="24/7 Films",24/7 Star Trek
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZfVgdI4P7tCKlVPmtD4S7fW
+#EXTINF:-1 xui-id="8289" tvg-id="8289" tvg-name="24/7 Star Wars" tvg-logo="http://live.huntv.net:8080/images/amRgRmLDPYMSj1-MYlaxZXXfGVDXxCy1JKcqid-ek-NZUTUEyuNyFD2aG-45sUgd5R5GF7kLwXlj3lIBMSulDxrKD0XlUBjsNwNqqysDLDOz1wXOhayi0Ly0TNMjUcxv.png" group-title="24/7 Films",24/7 Star Wars
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568how4nTGxK63fCbU-REBawQubu8cBDvGdwAg7vnsfuE8
+#EXTINF:-1 xui-id="34213" tvg-id="34213" tvg-name="24/7 Trónok harca" tvg-logo="http://live.huntv.net:8080/images/ggo_uLPIHNlwhe5gUTCgc9PHYoI4XgA6SgONTnzG0T1zhh_Y5_-hgmv6RXKfz2nXINn1qOoazahng1XuYpm97kMOadUZdil63xtteDa1oMy97YHJCvulKNiDf68MD1Ov831ZhaxloJJe1y-Zl6ScsRaT0TrciW_JWK1gL17O8DFLDljsTI7f6vFHkJm4WX0B4OhQxUbzpHwGofDlR_76tQ.png" group-title="24/7 Films",24/7 Trónok harca
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568nJXNvP-1g3oLBqHJk7WIZdWj2cKH27NoOt2e2Y2Mwhv
+#EXTINF:-1 xui-id="73383" tvg-id="ozonetv.hu" tvg-name="OZONE TV" tvg-logo="http://live.huntv.net:8080/images/0db8fc3b7fad8a3f9e45bc1b7f950cb8.png" group-title="Science",OZONE TV
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568hDFMgyX1tp8yhAT0zMaq78oB4Mo_8Fnzu61Bz2LpAFb
+#EXTINF:-1 xui-id="27798" tvg-id="" tvg-name="⭐ további több ezer film és sorozat előfizetéses csomagjainkban ⭐" tvg-logo="" group-title="Magyar TV",⭐ további több ezer film és sorozat előfizetéses csomagjainkban ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568v_IMQDlynjDqT2TJgglmInQfeTAvIUj-pcqTBHNI5JM
+#EXTINF:-1 xui-id="1843" tvg-id="" tvg-name="⭐ Magyar Rádiók ⭐" tvg-logo="http://live.huntv.net:8080/images/KYkVrKOeYc8ohNGre5TTLvZrnhEXKamGuvlzpweKcr4.png" group-title="Radio",⭐ Magyar Rádiók ⭐
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElz1NPEnrtmfv3Rjoz_3HXtt
+#EXTINF:-1 xui-id="4455" tvg-id="" tvg-name="BEAT RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/HmIJMxejU4NZZsIbSu6YJu91EfyZ3D1rNR1ekecKXEKLS1UOmspfhzlRe4VO45X2BHbVK1mjVqY_rtOADdF8zg.png" group-title="Radio",BEAT RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwA_TCoRJEoPCJj_o-AWzHR
+#EXTINF:-1 xui-id="4447" tvg-id="" tvg-name="DANUBIUS RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/148ada7ca8bb5b23e094d775c1d0d6c0.png" group-title="Radio",DANUBIUS RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxCfJWkeYj1B_KEM-AjRNrT
+#EXTINF:-1 xui-id="4452" tvg-id="" tvg-name="HIT RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/9d63b6c56bd44ed01ce87e4de159fd25.png" group-title="Radio",HIT RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtxZog82_NqCq4Jwx1LifuuL
+#EXTINF:-1 xui-id="4450" tvg-id="" tvg-name="KLUBRÁDIO" tvg-logo="http://live.huntv.net:8080/images/daa803c5c6b6e1bb85d3fdd2a2172ce1.png" group-title="Radio",KLUBRÁDIO
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtyPCUzmb12_Jx3gL1vgZWrH
+#EXTINF:-1 xui-id="4446" tvg-id="" tvg-name="KOSSUTH RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/9af7e21b71247055c94f477551097619.png" group-title="Radio",KOSSUTH RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwDYWNiRlfjkh8ohHx2wUFu
+#EXTINF:-1 xui-id="1842" tvg-id="" tvg-name="MEGADANCE RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/6583fdb2e88243fccf90854903cc80a1.png" group-title="Radio",MEGADANCE RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLEly0xF6zjizwghwyWhXN7La-
+#EXTINF:-1 xui-id="4453" tvg-id="" tvg-name="MULATOS RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/0185ac108d66c2a3c7381192a5ecc878.jpg" group-title="Radio",MULATOS RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtx3BPTXW59JNSiwpJJbfgmT
+#EXTINF:-1 xui-id="1840" tvg-id="" tvg-name="PETŐFI RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/6d60e3dc33521aa95b827d047e7d422d.png" group-title="Radio",PETŐFI RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElzUSZupQyquJwafSJvmet1Z
+#EXTINF:-1 xui-id="1844" tvg-id="" tvg-name="RETRO RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/1369d62e8f14541de2780fb995fd5b39.png" group-title="Radio",RETRO RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElwoAUONkWmkmagL7_Y70Qjq
+#EXTINF:-1 xui-id="4451" tvg-id="" tvg-name="ROCKER RÁDIÓ" tvg-logo="http://live.huntv.net:8080/images/065cf952f35667199558e27893f095fd.jpg" group-title="Radio",ROCKER RÁDIÓ
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtwMILNC8wXWi6Ci92OOfsTW
+#EXTINF:-1 xui-id="4445" tvg-id="" tvg-name="RÁDIÓ 1" tvg-logo="http://live.huntv.net:8080/images/2102966fabd8e14c1bb2aca2e0345b63.jpg" group-title="Radio",RÁDIÓ 1
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568goKHz1d_OGRjTiqpXkeDtzjmfft1Pcs3tpazQqHM5Q_
+#EXTINF:-1 xui-id="1841" tvg-id="" tvg-name="SLÁGER FM" tvg-logo="http://live.huntv.net:8080/images/044a5a1bf48c49415a5d7929a2e113ea.png" group-title="Radio",SLÁGER FM
+http://live.huntv.net:8080/play/-bezcKhaAeJIwsrnfk568rZBHv1jBELy0OO2binLElyKr5dv7EWk3UKabNJdjSJz
